@@ -575,6 +575,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   border-radius: 4px;
+  width: 100%;
 }
 @media screen and (max-width: 480px) {
   #fh5co-press .fh5co-press-item {
@@ -585,20 +586,28 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-press .fh5co-press-item .fh5co-press-img {
   width: 50%;
 }
+
+#fh5co-press .fh5co-press-item .fh5co-press-text-full{
+    width: 100%;
+}
+
 @media screen and (max-width: 480px) {
   #fh5co-press .fh5co-press-item .fh5co-press-text,
-  #fh5co-press .fh5co-press-item .fh5co-press-img {
+  #fh5co-press .fh5co-press-item .fh5co-press-img,
+  #fh5co-press .fh5co-press-item .fh5co-press-text-full{
     height: inherit;
     float: none !important;
     width: 100%;
     display: block !important;
   }
 }
-#fh5co-press .fh5co-press-item .fh5co-press-text {
+#fh5co-press .fh5co-press-item .fh5co-press-text,
+#fh5co-press .fh5co-press-item .fh5co-press-text-full{
   float: left;
   padding: 20px;
 }
-#fh5co-press .fh5co-press-item .fh5co-press-text .fh5co-press-title {
+#fh5co-press .fh5co-press-item .fh5co-press-text .fh5co-press-title,
+#fh5co-press .fh5co-press-item .fh5co-press-text-full .fh5co-press-title{
   margin: 0 0 20px 0;
   padding: 0 0 10px 0;
   font-weight: 400;
@@ -606,7 +615,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #444;
   position: relative;
 }
-#fh5co-press .fh5co-press-item .fh5co-press-text .fh5co-press-title .fh5co-border {
+#fh5co-press .fh5co-press-item .fh5co-press-text .fh5co-press-title .fh5co-border,
+#fh5co-press .fh5co-press-item .fh5co-press-text-full .fh5co-press-title .fh5co-border{
   position: absolute;
   left: 0;
   bottom: 0;
@@ -755,7 +765,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #footer {
   padding: 50px 0;
-  color: #7f7f7f;
+  color: white;
+  background-color: #382441;
 }
 #footer .copyright {
   margin-bottom: 0px;
@@ -817,12 +828,12 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: none;
 }
 .social li a.social-box {
-  background: #382441;
-  color: #fff;
+  background: white;
+  color: #382441;
 }
 .social li a.social-circle {
-  background: #382441;
-  color: #fff;
+  background: white;
+  color: #382441;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -832,16 +843,20 @@ h1, h2, h3, h4, h5, h6 {
   background: #393e46 !important;
 }
 .social.social-box a {
-  background: #382441;
-  color: #fff;
+  background: white;
+  color: #382441;
 }
 .social.social-circle a {
-  background: #382441;
-  color: #fff;
+  background: white;
+  color: #382441;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
+}
+
+#footer .copyright a{
+    color: white;
 }
 
 /*Bruno*/
