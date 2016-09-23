@@ -24,13 +24,13 @@ body {
 }
 
 a {
-  color: #382441;
+  color: #1d97a4;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #382441;
+  color: #27c6d7;
   outline: none;
 }
 
@@ -45,18 +45,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::-webkit-selection {
-  color: #818892;
-  background: #f9f6f0;
+  color: white;
+  background: #382441;
 }
 
 ::-moz-selection {
-  color: #818892;
-  background: #f9f6f0;
+  color: white;
+  background: #382441;
 }
 
 ::selection {
-  color: #818892;
-  background: #f9f6f0;
+  color: white;
+  background: #382441;
 }
 
 #fh5co-header {
@@ -451,9 +451,10 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
-#fh5co-our-services,
+/*#fh5co-our-services,*/
 #fh5co-press,
-#fh5co-features{
+#fh5co-about-us
+{
   background: #f4f4f4;
 }
 
@@ -546,6 +547,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-features .fh5co-service .fh5co-icon {
   float: left;
   width: 20%;
+
 }
 #fh5co-features .fh5co-service .fh5co-icon i {
   font-size: 40px;
@@ -1160,3 +1162,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.no-margin{
+    margin-top: 0px;
+}
+
+.img-portifolio{
+    width: 100%;
+    height: auto;
+}
+
+.grid-portifolio{
+    margin-top: 30px;
+}
