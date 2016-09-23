@@ -1175,3 +1175,8 @@ h1, h2, h3, h4, h5, h6 {
 .grid-portifolio{
     margin-top: 30px;
 }
+
+.icon-portifolio{
+    color: #1d97a4;
+    margin: 0px 5px 0px 5px;
+}
