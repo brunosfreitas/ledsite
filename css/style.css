@@ -45,18 +45,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::-webkit-selection {
-  color: #818892;
-  background: #f9f6f0;
+  color: white;
+  background: #382441;
 }
 
 ::-moz-selection {
-  color: #818892;
-  background: #f9f6f0;
+  color: white;
+  background: #382441;
 }
 
 ::selection {
-  color: #818892;
-  background: #f9f6f0;
+  color: white;
+  background: #382441;
 }
 
 #fh5co-header {
@@ -451,9 +451,10 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
-#fh5co-our-services,
+/*#fh5co-our-services,*/
 #fh5co-press,
-#fh5co-features{
+#fh5co-about-us
+{
   background: #f4f4f4;
 }
 
@@ -1160,3 +1161,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.no-margin{
+    margin-top: 0px;
+}
+
+.img-portifolio{
+    width: 100%;
+    height: auto;
+}
