@@ -56,7 +56,13 @@
 
 	-->
 	<link rel="stylesheet" href="css/style.css">
-
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+        <script>
+            $(function () {
+                $('[data-toggle="tooltip"]').tooltip()
+            })
+        </script>
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
@@ -245,7 +251,10 @@
                                     <h3 class="h2 fh5co-press-title">Dia de Pi <span class="fh5co-border"></span></h3>
                                 </div>
                                 <div class="col-xs-2 text-right">
-                                    <span><i class="icon-camrecorder icon-portifolio"></i><i class="icon-film icon-portifolio"></i></span>
+                                    <span>
+                                        <i class="icon-camrecorder icon-portifolio"></i>
+                                        <i class="icon-film icon-portifolio"></i>
+                                    </span>
                                 </div>
                                 <div class="col-md-12">
                                     <p class="text-justify">Além de ser o aniversário de Einstein, várias instituições de ensino norte-americanas e empresas ligadas à tecnologia usam o 14 de Março (= 3.14 no formato americano de datas) para comemorar o Dia de Pi. Promovem gincanas, brincadeiras e vários tipos de eventos temáticos – de matemática à ciência da computação.
@@ -423,43 +432,50 @@
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/neiva.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Neiva</h3>
-                                <div class="position">Supervisor</div>
+                                <h3 class="name">Neiva</h3><h4> Aparecida Gasparetto</h4>
+                                <div class="position">Técnica Administrativa</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/marcio.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Márcio</h3>
-                                <div class="position">Supervisor</div>
+                                <h3 class="name">Márcio</h3><h4>Vieira de Souza</h4>
+                                <div class="position">Coordenador</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/pinho.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Pinho</h3>
-                                <div class="position">Supervisor</div>
+                                <h3 class="name">Alexandre</h3><h4>Peres de Pinho</h4>
+                                <div class="position">Técnico Administrador</div>
                             </div>
                         </div>
 
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/ana.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Ana</h3>
-                                <div class="position">Técnico</div>
+                                <h3 class="name">Ana</h3><h4>Cristina Dionísio Medaglia</h4>
+                                <div class="position">Técnica</div>
+                            </div>
+                        </div>
+                        <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
+                            <div class="person">
+                                <img src="images/equipe/righetto.jpg" class="img-responsive img-rounded" alt="Person">
+                                <h3 class="name">André</h3><h4>Righetto</h4>
+                                <div class="position">Supervisor de Redes</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/andresa.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Andresa</h3>
-                                <div class="position">Design</div>
+                                <h3 class="name">Andresa</h3><h4>Brati</h4>
+                                <div class="position">Designer</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/bianca.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Bianca</h3>
+                                <h3 class="name">Bianca</h3><h4>dos Santos Mondo</h4>
                                 <div class="position">Secretária</div>
                             </div>
                         </div>
@@ -467,43 +483,43 @@
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/bruno.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Bruno</h3>
-                                <div class="position">Programação</div>
+                                <h3 class="name">Bruno</h3><h4>Freitas</h4>
+                                <div class="position">Programador</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/carluce.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Carluce</h3>
+                                <h3 class="name">Carluce</h3><h4>Buss</h4>
                                 <div class="position">Secretária</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/fabio.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Fabio</h3>
-                                <div class="position">Programação</div>
+                                <h3 class="name">Fabio</h3><h4>Dela Roca Fernandes</h4>
+                                <div class="position">Programador</div>
                             </div>
                         </div>
 
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/gesiel.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Gesiel</h3>
+                                <h3 class="name">Gesiel</h3><h4>Martins</h4>
                                 <div class="position">Técnico</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/joao.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">João</h3>
-                                <div class="position">Técnico</div>
+                                <h3 class="name">João</h3><h4> Alfredo Misturini</h4>
+                                <div class="position">Supervisor Técnico</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/joca.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Joca</h3>
+                                <h3 class="name">João</h3><h4>Pedro Benim</h4>
                                 <div class="position">Editor</div>
                             </div>
                         </div>
@@ -511,29 +527,29 @@
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/luiz.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Luiz</h3>
+                                <h3 class="name">Luiz</h3><h4>Kizima</h4>
                                 <div class="position">Editor</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/monica.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Monica</h3>
-                                <div class="position">Design</div>
+                                <h3 class="name">Monica</h3><h4>dos Santos Mondo</h4>
+                                <div class="position">Designer</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/oni.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Oni</h3>
-                                <div class="position">Audio</div>
+                                <h3 class="name">Oni</h3><h4>Freitas</h4>
+                                <div class="position">Técnico de Audio</div>
                             </div>
                         </div>
 
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/pati.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Pati</h3>
+                                <h3 class="name">Patrícia</h3><h4>Herkenhoff</h4>
                                 <div class="position">Editora</div>
                             </div>
                         </div>
@@ -541,7 +557,7 @@
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/rayse.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Rayse</h3>
+                                <h3 class="name">Rayse</h3><h4>Kiane de Souza</h4>
                                 <div class="position">Pesquisadora</div>
                             </div>
                         </div>
@@ -549,29 +565,22 @@
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/renan.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Renan</h3>
-                                <div class="position">Edição</div>
-                            </div>
-                        </div>
-                        <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
-                            <div class="person">
-                                <img src="images/equipe/righetto.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Righetto</h3>
-                                <div class="position">Redes</div>
+                                <h3 class="name">Renan</h3><h4>Binda</h4>
+                                <div class="position">Editor</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/vanderson.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Vanderson</h3>
+                                <h3 class="name">Vanderson</h3><h4>Xavier</h4>
                                 <div class="position">Técnico</div>
                             </div>
                         </div>
                         <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                             <div class="person">
                                 <img src="images/equipe/wollacy.jpg" class="img-responsive img-rounded" alt="Person">
-                                <h3 class="name">Wollacy</h3>
-                                <div class="position">Edição</div>
+                                <h3 class="name">Wollacy</h3><h4>Rasveiler da Silva</h4>
+                                <div class="position">Técnico</div>
                             </div>
                         </div>
 
