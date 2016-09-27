@@ -508,7 +508,7 @@
 
                             <h3 class="name">Márcio</h3><h4>Vieira de Souza</h4>
 
-                            <div class="position">Coordenador</div>
+                            <div class="position">Supervisor</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
