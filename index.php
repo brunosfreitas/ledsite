@@ -40,8 +40,6 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
-    <!-- Animate.css -->
-    <link rel="stylesheet" href="css/animate.css">
     <!-- Icomoon Icon Fonts-->
     <link rel="stylesheet" href="css/icomoon.css">
     <!-- Simple Line Icons -->
@@ -126,10 +124,10 @@
         <!--&lt;!&ndash;<div class="col-md-8 col-md-offset-2 text-center">&ndash;&gt;-->
         <!--&lt;!&ndash;<div class="fh5co-owl-text-wrap">&ndash;&gt;-->
         <!--&lt;!&ndash;<div class="fh5co-owl-text">&ndash;&gt;-->
-        <!--&lt;!&ndash;<h1 class="fh5co-lead to-animate">Grab it now for free!</h1>&ndash;&gt;-->
-        <!--&lt;!&ndash;<h3 class="fh5co-sub-lead to-animate">100% Free Fully Responsive HTML5 Bootstrap Template. Crafted with love by the fine folks at <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a></h3>&ndash;&gt;
+        <!--&lt;!&ndash;<h1 class="fh5co-lead  ">Grab it now for free!</h1>&ndash;&gt;-->
+        <!--&lt;!&ndash;<h3 class="fh5co-sub-lead  ">100% Free Fully Responsive HTML5 Bootstrap Template. Crafted with love by the fine folks at <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a></h3>&ndash;&gt;
         -->
-        <!--&lt;!&ndash;<p class="to-animate-2"><a href="http://freehtml5.co/" target="_blank" class="btn btn-primary btn-lg">Download This Template</a></p>&ndash;&gt;
+        <!--&lt;!&ndash;<p class=" -2"><a href="http://freehtml5.co/" target="_blank" class="btn btn-primary btn-lg">Download This Template</a></p>&ndash;&gt;
         -->
         <!--&lt;!&ndash;</div>&ndash;&gt;-->
         <!--&lt;!&ndash;</div>&ndash;&gt;-->
@@ -169,14 +167,14 @@
         <div class="row " id="about-us">
             <div class="col-md-12 section-heading text-center">
 
-                <h2 class="to-animate"><img src="images/logo-ledlab-roxo-200-rede.png"
+                <h2 class=" "><img src="images/logo-ledlab-roxo-200-rede.png"
                                             class="img-responsive center-block" alt="LEDLAB logo"></h2>
 
             </div>
-            <div class="col-md-8 to-animate">
+            <div class="col-md-8  ">
                 <img src="images/capa-facebook.png" class="img-responsive img-rounded" alt="Free HTML5 Template">
             </div>
-            <div class="col-md-4 to-animate">
+            <div class="col-md-4  ">
                 <h2 class="no-margin">Missão</h2>
 
                 <p>A missão do <strong>LED</strong>LAB, segue a filosofia da UFSC e consiste em: promover a criação e
@@ -196,10 +194,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 section-heading text-center">
-                <h2 class="single-animate animate-features-1">Serviços</h2>
+                <h2 >Serviços</h2>
 
                 <div class="row">
-                    <div class="col-md-8 col-md-offset-2 single-animate animate-features-2">
+                    <div class="col-md-8 col-md-offset-2">
                         <h3>Com uma equipe multidisciplinar, eficiente e experiente, o <strong>LED</strong>LAB oferece
                             uma gama de serviços a comunidade universitária.<h3>
                     </div>
@@ -207,21 +205,21 @@
             </div>
         </div>
         <div class="row row-bottom-padded-sm">
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
+            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service  ">
                 <div class="fh5co-icon"><i class="icon-camrecorder"></i></div>
                 <div class="fh5co-desc">
                     <h3>Captura Audiovisual</h3>
                     <!--<p><a href="bla">Far far away,</a>  behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
+            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service  ">
                 <div class="fh5co-icon"><i class="icon-film"></i></div>
                 <div class="fh5co-desc">
                     <h3>Edição de Vídeo</h3>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
+            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service  ">
                 <div class="fh5co-icon"><i class="icon-share"></i></div>
                 <div class="fh5co-desc">
                     <h3>Webinar</h3>
@@ -229,14 +227,14 @@
                 </div>
             </div>
             <div class="clearfix visible-sm-block visible-xs-block"></div>
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
+            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service  ">
                 <div class="fh5co-icon"><i class="icon-screen-desktop"></i></div>
                 <div class="fh5co-desc">
                     <h3>Webdesign</h3>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
+            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service  ">
                 <div class="fh5co-icon"><i class="icon-vector"></i></div>
                 <div class="fh5co-desc">
                     <h3>Diagramação</h3>
@@ -244,7 +242,7 @@
                 </div>
             </div>
             <div class="clearfix visible-sm-block visible-xs-block"></div>
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service to-animate">
+            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service  ">
                 <div class="fh5co-icon"><i class="icon-cup"></i></div>
                 <div class="fh5co-desc">
                     <h3>Programação</h3>
@@ -260,10 +258,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 section-heading text-center">
-                <h2 class="single-animate animate-press-1">Portifólio</h2>
+                <h2>Portifólio</h2>
 
                 <div class="row">
-                    <div class="col-md-8 col-md-offset-2 subtext single-animate animate-press-2">
+                    <div class="col-md-8 col-md-offset-2 subtext">
                         <h3>Confira alguns dos trabalhos realizados pela equipe <strong>LED</strong>LAB</h3>
                     </div>
                 </div>
@@ -272,19 +270,19 @@
         <div class="row">
             <div class="col-md-6">
                 <!-- Press Item -->
-                <div class="fh5co-press-item to-animate">
+                <div class="fh5co-press-item  ">
                     <div class="fh5co-press-text-full">
                         <div class="row">
-                            <div class="col-xs-10">
+                            <div class="col-xs-8 col-sm-10">
                                 <h3 class="h2 fh5co-press-title">Dia de Pi <span class="fh5co-border"></span></h3>
                             </div>
-                            <div class="col-xs-2 text-right">
+                            <div class="col-xs-4 col-sm-2 text-right">
                                     <span>
                                         <i class="icon-camrecorder icon-portifolio"></i>
                                         <i class="icon-film icon-portifolio"></i>
                                     </span>
                             </div>
-                            <div class="col-md-12">
+                            <div class="col-xs-12">
                                 <p class="text-justify">Além de ser o aniversário de Einstein, várias instituições de
                                     ensino norte-americanas e empresas ligadas à tecnologia usam o 14 de Março (= 3.14
                                     no formato americano de datas) para comemorar o Dia de Pi. Promovem gincanas,
@@ -305,17 +303,17 @@
                 <!-- Press Item -->
 
                 <!-- Press Item -->
-                <div class="fh5co-press-item to-animate">
+                <div class="fh5co-press-item  ">
                     <div class="fh5co-press-text-full">
                         <div class="row">
-                            <div class="col-xs-10">
+                            <div class="col-xs-8 col-sm-10">
                                 <h3 class="h2 fh5co-press-title">EGC - Como conseguir o título de mestre<span
                                         class="fh5co-border"></span></h3>
                             </div>
-                            <div class="col-xs-2 text-right">
+                            <div class="col-xs-4 col-sm-2 text-right">
                                 <span><i class="icon-film icon-portifolio"></i></span>
                             </div>
-                            <div class="col-md-12">
+                            <div class="col-xs-12 col-md-12">
                                 <p class="text-justify">O que preciso fazer para conseguir meu título de Mestre do EGC -
                                     UFSC
 
@@ -334,17 +332,17 @@
                 <!-- Press Item -->
 
                 <!-- Press Item -->
-                <div id="inovimetro" class="fh5co-press-item to-animate">
+                <div id="inovimetro" class="fh5co-press-item">
                     <div class="fh5co-press-text-full">
                         <div class="row">
-                            <div class="col-xs-10">
+                            <div class="col-xs-8 col-sm-10">
                                 <h3 class="h2 fh5co-press-title">Programação - Inovímetro <span
                                         class="fh5co-border"></span></h3>
                             </div>
-                            <div class="col-xs-2 text-right">
+                            <div class="col-xs-4 col-sm-2 text-right">
                                 <span><i class="icon-cup icon-portifolio"></i></span>
                             </div>
-                            <div class="col-md-12">
+                            <div class="col-xs-12">
                                 <p>Projeto em parceria com o <a href="http://www.ipdmaq.org.br/"
                                                                 target="_blank">IPDMAQ</a> (Instituto de Pesquisa e
                                     Desenvolvimento Tecnológico da Indústria de Máquinas e Equipamentos) foi
@@ -355,14 +353,14 @@
                             </div>
                         </div>
                         <div class="row grid-portifolio">
-                            <div class="col-md-6">
+                            <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
                                     <a href="#inovimetro" class="pop">
                                         <img src="images/portifolio/inovimetro_jogo.jpg" class="img-portifolio">
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
                                     <a href="#inovimetro" class="pop">
                                         <img src="images/portifolio/inovimetro_cadastro.jpg" class="img-portifolio">
@@ -371,14 +369,14 @@
                             </div>
                         </div>
                         <div class="row grid-portifolio">
-                            <div class="col-md-6">
+                            <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
                                     <a href="#inovimetro" class="pop">
                                         <img src="images/portifolio/inovimetro_questao.jpg" class="img-portifolio">
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
                                     <a href="#inovimetro" class="pop">
                                         <img src="images/portifolio/inovimetro_relatorio.jpg" class="img-portifolio">
@@ -395,18 +393,18 @@
 
             <div class="col-md-6">
                 <!-- Press Item -->
-                <div class="fh5co-press-item to-animate">
+                <div class="fh5co-press-item">
                     <div class="fh5co-press-text-full">
                         <div class="row">
-                            <div class="col-xs-10">
+                            <div class="col-xs-8 col-sm-10">
                                 <h3 class="h2 fh5co-press-title">V Conferência Estadual de CTI - Procedimentos
                                     Metodológicos<span class="fh5co-border"></span></h3>
                             </div>
-                            <div class="col-xs-2 text-right">
+                            <div class="col-xs-4 col-sm-2 text-right">
                                 <span><i class="icon-camrecorder icon-portifolio"></i><i
                                         class="icon-film icon-portifolio"></i></span>
                             </div>
-                            <div class="col-md-12">
+                            <div class="col-xs-12">
                                 <p class="text-justify">Gravação/Edição de vídeos de apresentação e videoconferência.
                                     <br>
                                     Mais informações em <a href="http://www.conferenciacti.sc.gov.br/" target="_blank">http://www.conferenciacti.sc.gov.br/</a><br>
@@ -425,21 +423,21 @@
 
             <div class="col-md-6">
                 <!-- Press Item -->
-                <div class="fh5co-press-item to-animate">
+                <div class="fh5co-press-item  ">
                     <div class="fh5co-press-text-full">
                         <div class="row">
-                            <div class="col-xs-10">
+                            <div class="col-xs-8 col-sm-10">
                                 <h3 class="h2 fh5co-press-title">Website - EGC<span class="fh5co-border"></span></h3>
                             </div>
-                            <div class="col-xs-2 text-right">
+                            <div class="col-xs-4 col-sm-2 text-right">
                                 <span><i class="icon-cup icon-portifolio"></i></span>
                             </div>
-                            <div class="col-md-12">
+                            <div class="col-xs-12">
                                 <p>Reformulação do website e suporte contínuo ao conteúdo em wordpress.
                                     Mais informações em <a href="http://www.egc.ufsc.br/" target="_blank">http://www.egc.ufsc.br/</a>
                                 </p>
                             </div>
-                            <div class="col-md-12">
+                            <div class="col-xs-12">
                                 <div class="img-portifolio text-center">
                                     <a href="http://www.egc.ufsc.br" target="_blank">
                                         <img src="images/portifolio/egc.jpeg" class="img-portifolio"></a>
@@ -455,7 +453,7 @@
 
             <!--<div class="col-md-6">-->
             <!--&lt;!&ndash; Press Item &ndash;&gt;-->
-            <!--<div class="fh5co-press-item to-animate">-->
+            <!--<div class="fh5co-press-item  ">-->
             <!--<div class="fh5co-press-img" style="background-image: url(images/img_9.jpg);">-->
             <!--</div>-->
             <!--<div class="fh5co-press-text">-->
@@ -519,7 +517,7 @@
 
                             <h3 class="name">Alexandre</h3><h4>Peres de Pinho</h4>
 
-                            <div class="position">Técnico Administrador</div>
+                            <div class="position">Técnico Administrativo</div>
                         </div>
                     </div>
 
@@ -582,7 +580,7 @@
                         <div class="person">
                             <img src="images/equipe/fabio.jpg" class="img-responsive img-rounded" alt="Person">
 
-                            <h3 class="name">Fabio</h3><h4>Dela Roca Fernandes</h4>
+                            <h3 class="name">Fabio</h3><h4>Dela Roca</h4>
 
                             <div class="position">Programador</div>
                         </div>

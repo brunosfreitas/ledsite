@@ -755,14 +755,30 @@ h1, h2, h3, h4, h5, h6 {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
+
 .person .name {
-  font-size: 24px;
+    font-size: 22px;
 }
+
+@media screen and (max-width: 768px) {
+    .person .name {
+      font-size: 16px;
+    }
+}
+
+
 .person .position {
   text-transform: uppercase;
   color: #888888;
   margin-bottom: 30px;
   letter-spacing: 2px;
+}
+
+
+@media screen and (max-width: 768px) {
+    .person .position {
+        font-size: 16px;
+    }
 }
 
 #footer {
@@ -1180,3 +1196,4 @@ h1, h2, h3, h4, h5, h6 {
     color: #1d97a4;
     margin: 0px 5px 0px 5px;
 }
+
