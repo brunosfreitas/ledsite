@@ -558,7 +558,7 @@
 
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/neiva.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/neiva.jpg" class="img-responsive img-rounded" alt="Neiva Aparecida Gasparetto">
 
                             <h3 class="name">Neiva</h3><h4> Aparecida Gasparetto</h4>
 
@@ -567,7 +567,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/marcio.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/marcio.jpg" class="img-responsive img-rounded" alt="Márcio Vieira de Souza">
 
                             <h3 class="name">Márcio</h3><h4>Vieira de Souza</h4>
 
@@ -576,7 +576,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/pinho.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/pinho.jpg" class="img-responsive img-rounded" alt="Alexandre Peres de Pinho">
 
                             <h3 class="name">Alexandre</h3><h4>Peres de Pinho</h4>
 
@@ -586,7 +586,7 @@
 
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/ana.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/ana.jpg" class="img-responsive img-rounded" alt="Ana Cristina Dionísio Medaglia">
 
                             <h3 class="name">Ana</h3><h4>Cristina Dionísio Medaglia</h4>
 
@@ -595,7 +595,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/righetto.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/righetto.jpg" class="img-responsive img-rounded" alt="André Righetto">
 
                             <h3 class="name">André</h3><h4>Righetto</h4>
 
@@ -604,7 +604,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/andresa.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/andresa.jpg" class="img-responsive img-rounded" alt="Andresa Brati">
 
                             <h3 class="name">Andresa</h3><h4>Brati</h4>
 
@@ -613,7 +613,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/bianca.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/bianca.jpg" class="img-responsive img-rounded" alt="Bianca dos Santos Mondo">
 
                             <h3 class="name">Bianca</h3><h4>dos Santos Mondo</h4>
 
@@ -623,7 +623,7 @@
 
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/bruno.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/bruno.jpg" class="img-responsive img-rounded" alt="Bruno Freitas">
 
                             <h3 class="name">Bruno</h3><h4>Freitas</h4>
 
@@ -632,7 +632,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/carluce.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/carluce.jpg" class="img-responsive img-rounded" alt="Carluce Buss">
 
                             <h3 class="name">Carluce</h3><h4>Buss</h4>
 
@@ -641,7 +641,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/fabio.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/fabio.jpg" class="img-responsive img-rounded" alt="Fabio Dela Roca">
 
                             <h3 class="name">Fabio</h3><h4>Dela Roca</h4>
 
@@ -651,7 +651,7 @@
 
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/gesiel.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/gesiel.jpg" class="img-responsive img-rounded" alt="Gesiel Martins">
 
                             <h3 class="name">Gesiel</h3><h4>Martins</h4>
 
@@ -660,7 +660,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/joao.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/joao.jpg" class="img-responsive img-rounded" alt="João Alfredo Misturini">
 
                             <h3 class="name">João</h3><h4> Alfredo Misturini</h4>
 
@@ -669,7 +669,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/joca.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/joca.jpg" class="img-responsive img-rounded" alt="João Pedro Benim">
 
                             <h3 class="name">João</h3><h4>Pedro Benim</h4>
 
@@ -679,7 +679,7 @@
 
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/luiz.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/luiz.jpg" class="img-responsive img-rounded" alt="Luiz Kizima">
 
                             <h3 class="name">Luiz</h3><h4>Kizima</h4>
 
@@ -688,7 +688,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/monica.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/monica.jpg" class="img-responsive img-rounded" alt="Monica dos Santos Mondo">
 
                             <h3 class="name">Monica</h3><h4>dos Santos Mondo</h4>
 
@@ -697,7 +697,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/oni.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/oni.jpg" class="img-responsive img-rounded" alt="Oni Freitas">
 
                             <h3 class="name">Oni</h3><h4>Freitas</h4>
 
@@ -707,7 +707,7 @@
 
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/pati.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/pati.jpg" class="img-responsive img-rounded" alt="Patrícia Herkenhoff">
 
                             <h3 class="name">Patrícia</h3><h4>Herkenhoff</h4>
 
@@ -717,7 +717,7 @@
 
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/rayse.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/rayse.jpg" class="img-responsive img-rounded" alt="Rayse Kiane de Souza">
 
                             <h3 class="name">Rayse</h3><h4>Kiane de Souza</h4>
 
@@ -727,7 +727,7 @@
 
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/renan.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/renan.jpg" class="img-responsive img-rounded" alt="Renan Binda">
 
                             <h3 class="name">Renan</h3><h4>Binda</h4>
 
@@ -736,7 +736,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/vanderson.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/vanderson.jpg" class="img-responsive img-rounded" alt="Vanderson Xavier">
 
                             <h3 class="name">Vanderson</h3><h4>Xavier</h4>
 
@@ -745,7 +745,7 @@
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
-                            <img src="images/equipe/wollacy.jpg" class="img-responsive img-rounded" alt="Person">
+                            <img src="images/equipe/wollacy.jpg" class="img-responsive img-rounded" alt="Wollacy Rasveiler da Silva">
 
                             <h3 class="name">Wollacy</h3><h4>Rasveiler da Silva</h4>
 
