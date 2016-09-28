@@ -164,17 +164,57 @@
 
 <div id="fh5co-about-us" data-section="sobre">
     <div class="container">
-        <div class="row " id="about-us">
-            <div class="col-md-12 section-heading text-center">
+        <div class="row" id="about-us">
+            <div class="col-xs-12 col-md-6 section-heading text-center">
 
-                <h2 class=" "><img src="images/logo-ledlab-roxo-200-rede.png"
-                                            class="img-responsive center-block" alt="LEDLAB logo"></h2>
+                <h2><img src="images/logo-ledlab-roxo-200-rede.png" class="img-responsive center-block" alt="LEDLAB logo"></h2>
 
             </div>
-            <div class="col-md-8  ">
+            <div class="col-md-6 section-heading text-center">
+                <div class="row">
+                    <div class="col-xs-6">
+                        <h3>Um Laboratório:
+                            <img src="images/egc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
+                        </h3>
+                    </div>
+                    <div class="col-xs-6">
+                        <h3>Da Universidade:
+                            <img src="images/ufsc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
+
+                        </h3>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row" id="about-us">
+
+            <div class="col-xs-4 section-heading text-center">
+                <h3>Um Laboratório:
+                    <img src="images/egc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
+                </h3>
+            </div>
+            <div class="col-xs-12 col-md-4 section-heading text-center">
+
+                <h2><img src="images/logo-ledlab-roxo-200-rede.png" class="img-responsive center-block" alt="LEDLAB logo"></h2>
+
+            </div>
+            <div class="col-xs-4 section-heading text-center">
+                        <h3>Da Universidade:
+                            <img src="images/ufsc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
+                        </h3>
+            </div>
+
+
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-6  ">
                 <img src="images/capa-facebook.png" class="img-responsive img-rounded" alt="Free HTML5 Template">
             </div>
-            <div class="col-md-4  ">
+            <div class="col-md-6  ">
                 <h2 class="no-margin">Missão</h2>
 
                 <p>A missão do <strong>LED</strong>LAB, segue a filosofia da UFSC e consiste em: promover a criação e
@@ -208,14 +248,14 @@
             <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service  ">
                 <div class="fh5co-icon"><i class="icon-camrecorder"></i></div>
                 <div class="fh5co-desc">
-                    <h3>Captura Audiovisual</h3>
+                    <h3>Videoconferência</h3>
                     <!--<p><a href="bla">Far far away,</a>  behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service  ">
                 <div class="fh5co-icon"><i class="icon-film"></i></div>
                 <div class="fh5co-desc">
-                    <h3>Edição de Vídeo</h3>
+                    <h3>Gravação e Edição de Vídeo</h3>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
                 </div>
             </div>
@@ -245,7 +285,7 @@
             <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service  ">
                 <div class="fh5co-icon"><i class="icon-cup"></i></div>
                 <div class="fh5co-desc">
-                    <h3>Programação</h3>
+                    <h3>Programação Web</h3>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
                 </div>
             </div>
@@ -270,31 +310,24 @@
         <div class="row">
             <div class="col-md-6">
                 <!-- Press Item -->
-                <div class="fh5co-press-item  ">
+                <div class="fh5co-press-item background-outubro-rosa">
                     <div class="fh5co-press-text-full">
                         <div class="row">
                             <div class="col-xs-8 col-sm-10">
-                                <h3 class="h2 fh5co-press-title">Dia de Pi <span class="fh5co-border"></span></h3>
+                                <h3 class="h2 fh5co-press-title">Nova Marca <strong>LED</strong>LAB <span class="fh5co-border"></span></h3>
                             </div>
                             <div class="col-xs-4 col-sm-2 text-right">
                                     <span>
-                                        <i class="icon-camrecorder icon-portifolio"></i>
                                         <i class="icon-film icon-portifolio"></i>
                                     </span>
                             </div>
                             <div class="col-xs-12">
-                                <p class="text-justify">Além de ser o aniversário de Einstein, várias instituições de
-                                    ensino norte-americanas e empresas ligadas à tecnologia usam o 14 de Março (= 3.14
-                                    no formato americano de datas) para comemorar o Dia de Pi. Promovem gincanas,
-                                    brincadeiras e vários tipos de eventos temáticos – de matemática à ciência da
-                                    computação.
-                                    <br>
-                                    <a href="http://www.piacademy.com.br/"
-                                       target="_blank">http://www.piacademy.com.br/</a></p>
+                                <p class="text-justify">Desenvolvido no primeiro semestre de 2016 a equipe de Design LED apresenta uma nova versão para a marca gráfica do laboratório. Com novas aplicações, o projeto de branding propõe uma linguagem mais contemporânea. Confira no vídeo:
+
 
                                 <div class="embed-responsive embed-responsive-16by9">
                                     <iframe class="embed-responsive-item"
-                                            src="https://www.youtube.com/embed/6xcNyduPQLE"></iframe>
+                                            src="https://www.youtube.com/embed/2aZLiT-Lczk" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -323,7 +356,7 @@
 
                                 <div class="embed-responsive embed-responsive-16by9">
                                     <iframe class="embed-responsive-item"
-                                            src="https://www.youtube.com/embed/CxwNhSoAqlY"></iframe>
+                                            src="https://www.youtube.com/embed/CxwNhSoAqlY" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -393,6 +426,37 @@
 
             <div class="col-md-6">
                 <!-- Press Item -->
+                <div class="fh5co-press-item  ">
+                    <div class="fh5co-press-text-full">
+                        <div class="row">
+                            <div class="col-xs-8 col-sm-10">
+                                <h3 class="h2 fh5co-press-title">Dia de Pi <span class="fh5co-border"></span></h3>
+                            </div>
+                            <div class="col-xs-4 col-sm-2 text-right">
+                                    <span>
+                                        <i class="icon-film icon-portifolio"></i>
+                                    </span>
+                            </div>
+                            <div class="col-xs-12">
+                                <p class="text-justify">Além de ser o aniversário de Einstein, várias instituições de
+                                    ensino norte-americanas e empresas ligadas à tecnologia usam o 14 de Março (= 3.14
+                                    no formato americano de datas) para comemorar o Dia de Pi. Promovem gincanas,
+                                    brincadeiras e vários tipos de eventos temáticos – de matemática à ciência da
+                                    computação.
+                                    <br>
+                                    <a href="http://www.piacademy.com.br/"
+                                       target="_blank">http://www.piacademy.com.br/</a></p>
+
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe class="embed-responsive-item"
+                                            src="https://www.youtube.com/embed/6xcNyduPQLE" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Press Item -->
+                <!-- Press Item -->
                 <div class="fh5co-press-item">
                     <div class="fh5co-press-text-full">
                         <div class="row">
@@ -401,8 +465,7 @@
                                     Metodológicos<span class="fh5co-border"></span></h3>
                             </div>
                             <div class="col-xs-4 col-sm-2 text-right">
-                                <span><i class="icon-camrecorder icon-portifolio"></i><i
-                                        class="icon-film icon-portifolio"></i></span>
+                                <span><i class="icon-film icon-portifolio"></i></span>
                             </div>
                             <div class="col-xs-12">
                                 <p class="text-justify">Gravação/Edição de vídeos de apresentação e videoconferência.
@@ -411,7 +474,7 @@
 
                                 <div class="embed-responsive embed-responsive-16by9">
                                     <iframe class="embed-responsive-item"
-                                            src="https://www.youtube.com/embed/ndNeGybNIwo"></iframe>
+                                            src="https://www.youtube.com/embed/ndNeGybNIwo" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>

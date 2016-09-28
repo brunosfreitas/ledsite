@@ -231,12 +231,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .section-heading {
   float: left;
-  width: 100%;
   padding-bottom: 50px;
   margin-bottom: 50px;
-  clear: both;
 }
-.section-heading h2 {
+.section-heading h2, .section-heading h3 {
   font-size: 50px;
   font-weight: 300;
   color: #444;
@@ -246,7 +244,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 20px;
   line-height: 1.5;
 }
-.section-heading h2:after {
+.section-heading h2:after, .section-heading h3:after {
   content: "";
   position: absolute;
   display: block;
@@ -257,6 +255,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: -40px;
   bottom: 0;
 }
+
+.section-heading h3{
+    font-size: 24px;
+}
+
 @media screen and (max-width: 768px) {
   .section-heading h2 {
     font-size: 30px;
@@ -1197,3 +1200,8 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0px 5px 0px 5px;
 }
 
+.background-outubro-rosa{
+    background: url("http://led.ufsc.br/images/outubro-rosa.png"), white  !important;
+    background-position: left top !important;
+    background-repeat: no-repeat !important;
+}
