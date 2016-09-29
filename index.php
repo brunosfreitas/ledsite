@@ -37,8 +37,6 @@
 
     <!-- Bootstrap  -->
     <link rel="stylesheet" href="css/bootstrap.css">
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
 
     <!-- Icomoon Icon Fonts-->
     <link rel="stylesheet" href="css/icomoon.css">
@@ -165,33 +163,9 @@
 <div id="fh5co-about-us" data-section="sobre">
     <div class="container">
         <div class="row" id="about-us">
-            <div class="col-xs-12 col-md-6 section-heading text-center">
-
-                <h2><img src="images/logo-ledlab-roxo-200-rede.png" class="img-responsive center-block" alt="LEDLAB logo"></h2>
-
-            </div>
-            <div class="col-md-6 section-heading text-center">
-                <div class="row">
-                    <div class="col-xs-6">
-                        <h3>Um Laboratório:
-                            <img src="images/egc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
-                        </h3>
-                    </div>
-                    <div class="col-xs-6">
-                        <h3>Da Universidade:
-                            <img src="images/ufsc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
-
-                        </h3>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-        <div class="row" id="about-us">
 
             <div class="col-xs-4 section-heading text-center">
-                <h3>Um Laboratório:
+                <h3 class="logos">Um Laboratório:
                     <img src="images/egc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
                 </h3>
             </div>
@@ -201,7 +175,7 @@
 
             </div>
             <div class="col-xs-4 section-heading text-center">
-                        <h3>Da Universidade:
+                        <h3 class="logos">Da Universidade:
                             <img src="images/ufsc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
                         </h3>
             </div>
@@ -215,16 +189,94 @@
                 <img src="images/capa-facebook.png" class="img-responsive img-rounded" alt="Free HTML5 Template">
             </div>
             <div class="col-md-6  ">
-                <h2 class="no-margin">Missão</h2>
 
-                <p>A missão do <strong>LED</strong>LAB, segue a filosofia da UFSC e consiste em: promover a criação e
-                    disseminação do conhecimento entre a Universidade e os distintos segmentos da sociedade,
-                    independente da localização geográfica, utilizando ambientes virtuais de aprendizagem formados com a
-                    integração de referenciais pedagógicos consistentes e tecnologias de informação e comunicação de
-                    última geração.</p>
+                <p class="text-justify"><strong>LED</strong>LAB é composto por equipe multidisciplinar experiente de (técnicos, pesquisadores e estudantes) que pesquisa e desenvolve novos modelos educacionais e de tecnologias de informação e comunicação. Tem o objetivo de tornar mais acessível à informação, a comunicação mais eficiente, ampliando o saber acadêmico e o conhecimento;  visa incentivar e apoiar ações  e soluções de educação em rede, presencial e a distância,  e propor política de incentivo à produção acadêmica em rede. </p>
 
-                <p><a href="#" data-nav-section="equipe" class="btn btn-primary">Conheça a Equipe <strong>LED</strong>LAB</a>
+                <p><a class="btn btn-primary" onclick="showDiv()" >Saiba mais sobre o <strong>LED</strong>LAB</a>
                 </p>
+            </div>
+
+            <div class="col-md-12" id="welcomeDiv"  style="display:none;">
+                <h3>Saiba mais sobre o <strong>LED</strong>LAB:</h3>
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    <i class="icon-plus-circle"></i> A UFSC e o LED : um pouco de história
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                            <div class="panel-body">
+                                <p>De pioneira em Educação a Distância no ensino superior e da pós–graduação no Brasil a inovadora na Educação em Rede.<br>
+                                <p>O LED (Laboratório de Ensino a Distância) foi criado em 1995 no Centro Tecnológico (CTC) da UFSC junto ao Departamento de Engenharia de Produção e o seu programa de Pós-graduação.  O LED-UFSC realizou inúmeros projetos pioneiros de educação a distância e educação semipresencial, cursos de formação e extensão com várias instituições públicas e privadas no Brasil.</p>
+                                <p>Como um precursor da videoconferência no Brasil para fins educacionais, o LED realizou em parceria com os centros e departamentos da UFSC, cursos presenciais e virtuais – de especialização, capacitação, mestrado e doutorado, por meio de parcerias como: Petrobrás, Caixa Econômica Federal, Instituto Interlegis, SENAI, Ministério da Saúde, Ministério da Educação, Capes, Finep, CNPq entre outros.</p>
+                                <p>Nesta época, segundo dados da ABED (Associação Brasileira de EaD), a UFSC foi responsável por aproximadamente 75% das pesquisas nacionais indexadas na área de Educação a Distância. Estas pesquisas entre outras dissertações e teses encontram-se no Banco de teses e dissertações da Biblioteca Universitária da UFSC.</p>
+                                <p>Com esse crescimento e potencial, no ano de 2004, o Centro Tecnólogico (CTC) da UFSC reformula a área de mídia e conhecimento onde a EaD se encontrava,  que articulada a outras duas áreas ( Engenharia e Gestão) cria  o  Programa interdisciplinar em Engenharia, Gestão e Mídia do Conhecimento (PPGEGC). No bojo deste processo, o LED reformula e amplia sua concepção, transformando seu nome de Laboratório de Ensino a Distância para Laboratório de Educação à Distância mantendo sua essência de inovação e sua sigla, mas ampliando sua concepção e perspectivas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingTwo">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <i class="icon-plus-circle"></i> O LED, o barraco do conhecimento e o EGC
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                            <div class="panel-body">
+                                <p>Neste momento histórico de surgimento do EGC e de seu programa de pós-graduação (PPEGC), o LED com o seu “barraco do conhecimento” é o único espaço físico presencial que os professores, os pesquisadores e os estudantes de pós-graduação do EGC possuíam para realizar suas atividades acadêmicas. As salas e auditórios de videoconferência se transformaram no coração do EGC e o espaço físico precário do LED foi apelidado carinhosamente pela sua comunidade acadêmica de “barraco do conhecimento”. Um antigo prédio de madeira que foi adaptado e possui muita tecnologia de informação e comunicação a serviço do conhecimento e da educação. Em 2015 o Departamento de Engenharia do Conhecimento (DEGC) recebeu da universidade um novo espaço físico para suas atividades, o segundo andar do prédio onde fica a Editora Universitária.  Em 2016 o EGC conquista outro espaço físico importante para realização de seus projetos, o antigo prédio administrativo do departamento do Centro de Desportos (CDS).  Assim o EGC passa por uma nova reformulação física e avança no seu planejamento estratégico, ampliando e revigorando suas concepções e metas.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingThree">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <i class="icon-plus-circle"></i> O <strong>LED</strong>LAB : um laboratório de educação em rede
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                            <div class="panel-body">
+                                <p>Neste contexto, o LED também passa por uma reformulação de seu espaço físico e avança nos seus conceitos e atualiza suas concepções conjunturais e estratégicas, acompanhando as mudanças e inovações educacionais e refletindo sobre as tendências tecnológicas na área de mídia e conhecimento. Desta forma, além de várias reformulações físicas, como a criação de mais um auditório-sala (multimídia) de videoconferência (LED3), o LED reformula sua marca (LED LAB), seu site e passa a agregar ao seu nome a referência: “laboratório de educação em rede”. </p>
+                                <p>Acreditamos que numa sociedade em rede, uma sociedade onde o conhecimento é cada vez mais um valor essencial e estratégico, a educação também tem que ser realizada em rede.  Entendemos que com fenômeno da virtualização, da globalização do conhecimento e o crescimento e massificação exponencial das tecnologias da informação e comunicação (TICs), cada vez mais a diferenciação entre a educação presencial, semipresencial e a distância será realizada apenas como uma adaptação das necessidades e realidades de cada caso. O surgimento de cursos massivos online (MOOCS), de modelos variados de educação híbrida, de metodologias de sala de aula invertida, de conferências e seminários virtuais (WEBNAR),  da utilização e ambientes virtuais de aprendizagem (AVAs) dos mais variados tipos na educação presencial, da internet das coisas (IOT),  bem como a criação e utilização de redes sociais temáticas, tanto na educação formal como na educação corporativa, indicam que esse é o caminho que devemos seguir: uma educação em rede numa sociedade em rede. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingFour">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    <i class="icon-plus-circle"></i> O LED, o EGC e a UFSC
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+                            <div class="panel-body">
+                                <p>O LED respira a cultura interdisciplinar e de pesquisa inovadora de que o EGC-UFSC e seu programa de pós-graduação são compostos.  O LED serve de apoio para muitas produções de extensão e pesquisas do EGC bem como se apropria do conhecimento gerado por elas. Vários projetos que o laboratório desenvolve têm entre seus membros pesquisadores e estudantes do programa de pós-graduação do EGC-UFSC.</p>
+                                <p>Além disso, o LED LAB é também um espaço de aprendizagem e formação prática ao estilo da filosofia maker, do aprender fazendo, da verdadeira práxis, levando a teoria para a prática que leva a uma nova reflexão teórica de aprendizagem. O LED LAB é um espaço interdisciplinar de aprendizagem para cerca de duas dezenas de estudantes de graduação (bolsistas) das mais variadas áreas da UFSC (comunicação, engenharia, computação, educação, física, entre outras).</p>
+                                <p>O LED LAB apoia tecnicamente, produz conteúdos e desenvolve ferramentas para vários projetos de vários centros da UFSC (produção de vídeo aulas e transmissão de cursos da UAB ( Universidade Aberta do Brasil), SUS ,  é responsável pela captação e transmissão ao vivo  dos todas as reuniões dos Conselhos da Reitoria e pró-reitorias da Universidade;</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingFive">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    <i class="icon-plus-circle"></i> O <strong>LED</strong>LAB e a sociedade
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+                            <div class="panel-body">
+                                <p>O LED tem apoiado, desenvolvendo e produzido, cursos a distância e presenciais, vídeos institucionais e educativos, sites e ambientes virtuais, projetos de pesquisa e extensão com a universidade e entidades corporativas, entidades sem fins lucrativos, entidades da sociedade civil e educacionais, bem como com outras entidades do Estado e dos governos, sempre com o intuito de cumprir a missão da UFSC e ampliar a fronteira da educação e do conhecimento.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -310,7 +362,7 @@
         <div class="row">
             <div class="col-md-6">
                 <!-- Press Item -->
-                <div class="fh5co-press-item background-outubro-rosa">
+                <div class="fh5co-press-item">
                     <div class="fh5co-press-text-full">
                         <div class="row">
                             <div class="col-xs-8 col-sm-10">
@@ -327,7 +379,7 @@
 
                                 <div class="embed-responsive embed-responsive-16by9">
                                     <iframe class="embed-responsive-item"
-                                            src="https://www.youtube.com/embed/2aZLiT-Lczk" allowfullscreen></iframe>
+                                            src="https://www.youtube.com/embed/2R_WP4S81Ug" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -764,8 +816,8 @@
     <div class="container">
         <div class="row row-bottom-padded-sm">
             <div class="col-md-12">
-                <p class="copyright text-center"><a href="www.led.ufsc.br"><strong>LED</strong>LAB</a> - <a
-                        href="www.egc.ufsc.br">EGC</a> - <a href="www.ufsc.br">UFSC</a></p>
+                <p class="copyright text-center"><a href="http://www.led.ufsc.br"><strong>LED</strong>LAB</a> - <a
+                        href="http://www.egc.ufsc.br">EGC</a> - <a href="http://www.ufsc.br">UFSC</a></p>
 
                 <p class="copyright text-center">Campus Universitário - (48) 3721 - 2453 - atendimento@led.ufsc.br</p>
             </div>
@@ -773,8 +825,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <ul class="social social-circle">
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-youtube"></i></a></li>
+                    <li><a href="https://www.facebook.com/lededucacaoemrede" target="_blank"><i class="icon-facebook"></i></a></li>
+                    <li><a href="https://www.youtube.com/ledlabufsc" target="_blank"><i class="icon-youtube"></i></a></li>
                     <li><a href="mailto:atendimento@led.ufsc.br"><i class="icon-mail2"></i></a></li>
                 </ul>
             </div>

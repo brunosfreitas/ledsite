@@ -244,7 +244,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 20px;
   line-height: 1.5;
 }
-.section-heading h2:after, .section-heading h3:after {
+.section-heading h2:after, .logos:after {
   content: "";
   position: absolute;
   display: block;
@@ -255,6 +255,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: -40px;
   bottom: 0;
 }
+
 
 .section-heading h3{
     font-size: 24px;
