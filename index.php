@@ -12,10 +12,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>LEDLAB/UFSC - Educação em Rede</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="LEDLAB/UFSC - Educação em Rede"/>
+    <meta name="description" content="LEDLAB / UFSC - Educação em Rede"/>
     <meta name="keywords"
           content="laboratório de educação a distância; laboratório; videoaulas; videoconferência; EaD; gravações; gravação; vídeo; edição de vídeo; programação; design; websdesign; captura de imagem; edição de audio"/>
-    <meta name="author" content="LEDLAB/UFSC"/>
+    <meta name="author" content="LEDLAB / UFSC"/>
 
 
     <!-- Facebook and Twitter integration -->
