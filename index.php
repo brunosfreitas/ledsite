@@ -10,7 +10,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>LED - EGC - UFSC</title>
+    <title>LED/UFSC - Educação em Rede</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="LED/UFSC - Educação em Rede"/>
     <meta name="keywords"
@@ -61,23 +61,6 @@
 
     -->
     <link rel="stylesheet" href="css/style.css">
-
-
-    <script>
-        $(function() {
-            $('.pop').on('click', function() {
-                $('.imagepreview').attr('src', $(this).find('img').attr('src'));
-                $('#imagemodal').modal('show');
-            });
-        });
-    </script>
-
-    <!-- Modernizr JS -->
-    <script src="js/modernizr-2.6.2.min.js"></script>
-    <!-- FOR IE9 below -->
-    <!--[if lt IE 9]>
-    <script src="js/respond.min.js"></script>
-    <![endif]-->
 
 </head>
 <body>
@@ -165,19 +148,25 @@
         <div class="row" id="about-us">
 
             <div class="col-xs-4 section-heading text-center">
-                <h3 class="logos">Um Laboratório:
-                    <img src="images/egc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
-                </h3>
+                <p>Um Laboratório:
+                    <a href="http://egc.ufsc.br" target="_blank">
+                        <img src="images/egc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
+                    </a>
+                </p>
             </div>
-            <div class="col-xs-12 col-md-4 section-heading text-center">
+            <div class="col-xs-4 col-md-4 section-heading text-center">
 
                 <h2><img src="images/logo-ledlab-roxo-200-rede.png" class="img-responsive center-block" alt="LEDLAB logo"></h2>
 
             </div>
             <div class="col-xs-4 section-heading text-center">
-                        <h3 class="logos">Da Universidade:
-                            <img src="images/ufsc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
-                        </h3>
+
+                        <p>Da Universidade:
+                            <a href="http://ufsc.br" target="_blank">
+                                <img src="images/ufsc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
+                            </a>
+                        </p>
+
             </div>
 
 
@@ -191,9 +180,12 @@
             <div class="col-md-6  ">
 
                 <p class="text-justify"><strong>LED</strong>LAB é composto por equipe multidisciplinar experiente de (técnicos, pesquisadores e estudantes) que pesquisa e desenvolve novos modelos educacionais e de tecnologias de informação e comunicação. Tem o objetivo de tornar mais acessível à informação, a comunicação mais eficiente, ampliando o saber acadêmico e o conhecimento;  visa incentivar e apoiar ações  e soluções de educação em rede, presencial e a distância,  e propor política de incentivo à produção acadêmica em rede. </p>
+                <div class="text-center">
+                    <p>
+                        <a class="btn btn-primary" onclick="showDiv()" >Saiba mais sobre o <strong>LED</strong>LAB</a>
+                    </p>
+                </div>
 
-                <p><a class="btn btn-primary" onclick="showDiv()" >Saiba mais sobre o <strong>LED</strong>LAB</a>
-                </p>
             </div>
 
             <div class="col-md-12" id="welcomeDiv"  style="display:none;">
@@ -417,7 +409,7 @@
                 <!-- Press Item -->
 
                 <!-- Press Item -->
-                <div id="inovimetro" class="fh5co-press-item">
+                <div id="inovimetro" class="fh5co-press-item" data-section="inovimetro">
                     <div class="fh5co-press-text-full">
                         <div class="row">
                             <div class="col-xs-8 col-sm-10">
@@ -440,14 +432,14 @@
                         <div class="row grid-portifolio">
                             <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
-                                    <a href="#inovimetro" class="pop">
+                                    <a href="#" class="pop" data-nav-section="inovimetro">
                                         <img src="images/portifolio/inovimetro_jogo.jpg" class="img-portifolio">
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
-                                    <a href="#inovimetro" class="pop">
+                                    <a href="#" class="pop" data-nav-section="inovimetro">
                                         <img src="images/portifolio/inovimetro_cadastro.jpg" class="img-portifolio">
                                     </a>
                                 </div>
@@ -456,14 +448,14 @@
                         <div class="row grid-portifolio">
                             <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
-                                    <a href="#inovimetro" class="pop">
+                                    <a href="#" class="pop" data-nav-section="inovimetro">
                                         <img src="images/portifolio/inovimetro_questao.jpg" class="img-portifolio">
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
-                                    <a href="#inovimetro" class="pop">
+                                    <a href="#" class="pop" data-nav-section="inovimetro">
                                         <img src="images/portifolio/inovimetro_relatorio.jpg" class="img-portifolio">
                                     </a>
                                 </div>
@@ -601,20 +593,19 @@
 <div id="fh5co-team" data-section="equipe">
     <div class="container">
         <div class="row" id="team">
-            <div class="col-md-12 section-heading text-center">
+            <div class="col-xs-12 section-heading text-center">
                 <h2>Equipe <strong>LED</strong>LAB</h2>
             </div>
-            <div class="col-md-12">
+            <div class="col-xs-12">
                 <div class="row row-bottom-padded-lg">
-
-
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
                             <img src="images/equipe/neiva.jpg" class="img-responsive img-rounded" alt="Neiva Aparecida Gasparetto">
 
                             <h3 class="name">Neiva</h3><h4> Aparecida Gasparetto</h4>
 
-                            <div class="position">Técnica Administrativa</div>
+                            <div class="position">Técnica</div>
+                            <div class="position">Administrativa</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -624,6 +615,7 @@
                             <h3 class="name">Márcio</h3><h4>Vieira de Souza</h4>
 
                             <div class="position">Supervisor</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -632,7 +624,8 @@
 
                             <h3 class="name">Alexandre</h3><h4>Peres de Pinho</h4>
 
-                            <div class="position">Técnico Administrativo</div>
+                            <div class="position">Técnico</div>
+                            <div class="position">Administrativo</div>
                         </div>
                     </div>
 
@@ -640,9 +633,11 @@
                         <div class="person">
                             <img src="images/equipe/ana.jpg" class="img-responsive img-rounded" alt="Ana Cristina Dionísio Medaglia">
 
-                            <h3 class="name">Ana</h3><h4>Cristina Dionísio Medaglia</h4>
+                            <h3 class="name">Ana</h3><h4>Cristina Medaglia</h4>
+
 
                             <div class="position">Técnica</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -651,7 +646,8 @@
 
                             <h3 class="name">André</h3><h4>Righetto</h4>
 
-                            <div class="position">Supervisor de Redes</div>
+                            <div class="position">Supervisor</div>
+                            <div class="position">de Redes</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -661,6 +657,7 @@
                             <h3 class="name">Andresa</h3><h4>Brati</h4>
 
                             <div class="position">Designer</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -670,6 +667,7 @@
                             <h3 class="name">Bianca</h3><h4>dos Santos Mondo</h4>
 
                             <div class="position">Secretária</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
 
@@ -680,6 +678,7 @@
                             <h3 class="name">Bruno</h3><h4>Freitas</h4>
 
                             <div class="position">Programador</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -689,6 +688,7 @@
                             <h3 class="name">Carluce</h3><h4>Buss</h4>
 
                             <div class="position">Secretária</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -698,6 +698,7 @@
                             <h3 class="name">Fabio</h3><h4>Dela Roca</h4>
 
                             <div class="position">Programador</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
 
@@ -708,6 +709,7 @@
                             <h3 class="name">Gesiel</h3><h4>Martins</h4>
 
                             <div class="position">Técnico</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -716,7 +718,8 @@
 
                             <h3 class="name">João</h3><h4> Alfredo Misturini</h4>
 
-                            <div class="position">Supervisor Técnico</div>
+                            <div class="position">Supervisor</div>
+                            <div class="position">Técnico</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -726,6 +729,7 @@
                             <h3 class="name">João</h3><h4>Pedro Benim</h4>
 
                             <div class="position">Editor</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
 
@@ -736,6 +740,7 @@
                             <h3 class="name">Luiz</h3><h4>Kizima</h4>
 
                             <div class="position">Editor</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -745,6 +750,7 @@
                             <h3 class="name">Monica</h3><h4>dos Santos Mondo</h4>
 
                             <div class="position">Designer</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -753,7 +759,8 @@
 
                             <h3 class="name">Oni</h3><h4>Freitas</h4>
 
-                            <div class="position">Técnico de Audio</div>
+                            <div class="position">Técnico</div>
+                            <div class="position">de Audio</div>
                         </div>
                     </div>
 
@@ -764,6 +771,7 @@
                             <h3 class="name">Patrícia</h3><h4>Herkenhoff</h4>
 
                             <div class="position">Editora</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
 
@@ -774,6 +782,7 @@
                             <h3 class="name">Rayse</h3><h4>Kiane de Souza</h4>
 
                             <div class="position">Pesquisadora</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
 
@@ -784,6 +793,7 @@
                             <h3 class="name">Renan</h3><h4>Binda</h4>
 
                             <div class="position">Editor</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -793,6 +803,7 @@
                             <h3 class="name">Vanderson</h3><h4>Xavier</h4>
 
                             <div class="position">Técnico</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -802,6 +813,7 @@
                             <h3 class="name">Wollacy</h3><h4>Rasveiler da Silva</h4>
 
                             <div class="position">Técnico</div>
+                            <div class="position">-</div>
                         </div>
                     </div>
 
@@ -848,6 +860,23 @@
 
 <!-- Main JS (Do not remove) -->
 <script src="js/main.js"></script>
+
+
+<script>
+    $(function() {
+        $('.pop').on('click', function() {
+            $('.imagepreview').attr('src', $(this).find('img').attr('src'));
+            $('#imagemodal').modal('show');
+        });
+    });
+</script>
+
+<!-- Modernizr JS -->
+<script src="js/modernizr-2.6.2.min.js"></script>
+<!-- FOR IE9 below -->
+<!--[if lt IE 9]>
+<script src="js/respond.min.js"></script>
+<![endif]-->
 
 </body>
 </html>
