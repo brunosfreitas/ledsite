@@ -395,8 +395,6 @@
                                     UFSC
 
                                     Mais informações em <a href="egc.ufsc.br" target="_blank">egc.ufsc.br</a><br>
-                                    <a href="http://www.piacademy.com.br/"
-                                       target="_blank">http://www.piacademy.com.br/</a></p>
 
                                 <div class="embed-responsive embed-responsive-16by9">
                                     <iframe class="embed-responsive-item"
