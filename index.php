@@ -20,7 +20,7 @@
 
     <!-- Facebook and Twitter integration -->
     <meta property="og:title" content=""/>
-    <meta property="og:image" content=""/>
+    <meta property="og:image" content="http://www.led.ufsc.br/images/ledlab-facebook-share.png"/>
     <meta property="og:url" content=""/>
     <meta property="og:site_name" content=""/>
     <meta property="og:description" content=""/>
@@ -31,6 +31,7 @@
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="shortcut icon" href="favicon.ico">
+    <link rel="image_src" href="http://www.led.ufsc.br/images/ledlab-facebook-share.png">
 
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,400italic,700' rel='stylesheet'
           type='text/css'>
