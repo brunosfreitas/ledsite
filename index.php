@@ -283,7 +283,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h3>Com uma equipe multidisciplinar, eficiente e experiente, o <strong>LED</strong>LAB oferece
-                            uma gama de serviços a comunidade universitária.<h3>
+                            uma gama de serviços à comunidade universitária.<h3>
                     </div>
                 </div>
             </div>
@@ -358,20 +358,26 @@
                     <div class="fh5co-press-text-full">
                         <div class="row">
                             <div class="col-xs-8 col-sm-10">
-                                <h3 class="h2 fh5co-press-title">Nova Marca <strong>LED</strong>LAB <span class="fh5co-border"></span></h3>
+                                <h3 class="h2 fh5co-press-title">Outubro Rosa<span class="fh5co-border"></span></h3>
                             </div>
                             <div class="col-xs-4 col-sm-2 text-right">
                                     <span>
-                                        <i class="icon-film icon-portifolio"></i>
+                                        <img src="images/outubro-rosa-150.png" width="60px" height="60px">
                                     </span>
                             </div>
                             <div class="col-xs-12">
-                                <p class="text-justify">Desenvolvido no primeiro semestre de 2016 a equipe de Design LED apresenta uma nova versão para a marca gráfica do laboratório. Com novas aplicações, o projeto de branding propõe uma linguagem mais contemporânea. Confira no vídeo:
+                                <p class="text-justify">Neste mês de outubro o LED LAB veste ROSA.<br>
+                                    ROSA em apoio às ações e campanhas direcionadas à conscientização pela prevenção e combate ao câncer de mama, através de exames que auxiliam no diagnóstico precoce.<br>
+                                    ROSA pelas ações e campanhas que ajudam a tornar mais leve o dia a dia de quem é diagnosticada com câncer de mama e está em tratamento. <br>
+                                    ROSA com o propósito de compartilhar ao maior número de pessoas que estamos juntos e solidários por uma vida mais cor de ROSA. <br>
+
+                                    Com este objetivo, o LED LAB realizou uma entrevista com Flávia Flores, idealizadora do Instituto Quimioterapia e Beleza. Baseado na entrevista, produziu diversos vídeos que serão postados ao longo do mês de outubro.
+                                </p>
 
 
                                 <div class="embed-responsive embed-responsive-16by9">
                                     <iframe class="embed-responsive-item"
-                                            src="https://www.youtube.com/embed/2R_WP4S81Ug" allowfullscreen></iframe>
+                                            src="https://www.youtube.com/embed/_6RYmdB1uTo" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -392,7 +398,7 @@
                             </div>
                             <div class="col-xs-12 col-md-12">
                                 <p class="text-justify">O que preciso fazer para conseguir meu título de Mestre do EGC -
-                                    UFSC
+                                    UFSC?
 
                                     Mais informações em <a href="egc.ufsc.br" target="_blank">egc.ufsc.br</a><br>
 
@@ -421,8 +427,8 @@
                                 <p>Projeto em parceria com o <a href="http://www.ipdmaq.org.br/"
                                                                 target="_blank">IPDMAQ</a> (Instituto de Pesquisa e
                                     Desenvolvimento Tecnológico da Indústria de Máquinas e Equipamentos) foi
-                                    desenvolvido um sistema de perguntas e respostas baseado num jogo de cartas. Ao
-                                    final das perguntas um relatório com gráficos dinâmico era gerado para o usuário.
+                                    desenvolvido um sistema de perguntas e respostas baseado em um jogo de cartas. Ao
+                                    final das perguntas, um relatório com gráficos dinâmico é gerado para ao usuário.
 
                                 <p>
                             </div>
@@ -467,12 +473,39 @@
             </div>
 
             <div class="col-md-6">
+
+                <!-- Press Item -->
+                <div class="fh5co-press-item">
+                    <div class="fh5co-press-text-full">
+                        <div class="row">
+                            <div class="col-xs-8 col-sm-10">
+                                <h3 class="h2 fh5co-press-title">Nova Marca <strong>LED</strong>LAB <span class="fh5co-border"></span></h3>
+                            </div>
+                            <div class="col-xs-4 col-sm-2 text-right">
+                                    <span>
+                                        <i class="icon-film icon-portifolio"></i>
+                                    </span>
+                            </div>
+                            <div class="col-xs-12">
+                                <p class="text-justify">Desenvolvida no primeiro semestre de 2016 a equipe de Design LED apresenta uma nova versão para a marca gráfica do laboratório. Com novas aplicações, o projeto de branding propõe uma linguagem mais contemporânea. Confira no vídeo:
+
+
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe class="embed-responsive-item"
+                                            src="https://www.youtube.com/embed/2R_WP4S81Ug" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Press Item -->
+
                 <!-- Press Item -->
                 <div class="fh5co-press-item  ">
                     <div class="fh5co-press-text-full">
                         <div class="row">
                             <div class="col-xs-8 col-sm-10">
-                                <h3 class="h2 fh5co-press-title">Dia de Pi <span class="fh5co-border"></span></h3>
+                                <h3 class="h2 fh5co-press-title">Dia do Pi <span class="fh5co-border"></span></h3>
                             </div>
                             <div class="col-xs-4 col-sm-2 text-right">
                                     <span>
@@ -481,8 +514,8 @@
                             </div>
                             <div class="col-xs-12">
                                 <p class="text-justify">Além de ser o aniversário de Einstein, várias instituições de
-                                    ensino norte-americanas e empresas ligadas à tecnologia usam o 14 de Março (= 3.14
-                                    no formato americano de datas) para comemorar o Dia de Pi. Promovem gincanas,
+                                    ensino norte-americanas e empresas ligadas à tecnologia usam o 14 de Março (3/14
+                                    na notação norte-americana) para comemorar o Dia do Pi. Promovem gincanas,
                                     brincadeiras e vários tipos de eventos temáticos – de matemática à ciência da
                                     computação.
                                     <br>
@@ -613,7 +646,7 @@
                             <h3 class="name">Márcio</h3><h4>Vieira de Souza</h4>
 
                             <div class="position">Supervisor</div>
-                            <div class="position">-</div>
+                            <div class="position">Geral</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -622,7 +655,7 @@
 
                             <h3 class="name">Alexandre</h3><h4>Peres de Pinho</h4>
 
-                            <div class="position">Técnico</div>
+                            <div class="position">Coord. Técnico</div>
                             <div class="position">Administrativo</div>
                         </div>
                     </div>
@@ -631,7 +664,7 @@
                         <div class="person">
                             <img src="images/equipe/ana.jpg" class="img-responsive img-rounded" alt="Ana Cristina Dionísio Medaglia">
 
-                            <h3 class="name">Ana</h3><h4>Cristina Medaglia</h4>
+                            <h3 class="name">Ana</h3><h4>Cristina Dyonisio</h4>
 
 
                             <div class="position">Técnica</div>
@@ -665,7 +698,7 @@
                             <h3 class="name">Bianca</h3><h4>dos Santos Mondo</h4>
 
                             <div class="position">Secretária</div>
-                            <div class="position">-</div>
+                            <div class="position">de Produção</div>
                         </div>
                     </div>
 
@@ -686,7 +719,7 @@
                             <h3 class="name">Carluce</h3><h4>Buss</h4>
 
                             <div class="position">Secretária</div>
-                            <div class="position">-</div>
+                            <div class="position">de Produção</div>
                         </div>
                     </div>
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
@@ -758,7 +791,7 @@
                             <h3 class="name">Oni</h3><h4>Freitas</h4>
 
                             <div class="position">Técnico</div>
-                            <div class="position">de Audio</div>
+                            <div class="position">de Áudio</div>
                         </div>
                     </div>
 
