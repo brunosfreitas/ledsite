@@ -76,7 +76,7 @@
                            data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
                         <a class="navbar-brand" href="index.html"><img src="images/logo-ledlab-roxo.png"
                                                                        class="img-responsive" height="72px" width="72px"
-                                                                       alt="Free HTML5 Template"></a>
+                                                                       alt="Logo LEDLAB"></a>
                     </div>
                 </div>
                 <div class="col-md-10">
@@ -134,7 +134,7 @@
             <div class="container-fluid slider-container-fluid" style="position: relative;">
                 <div class="row">
                     <div class="col-md-12 vcenter">
-                        <img src="images/texto-banner.png" alt="Free HTML5 Template by FREEHTML5.co">
+                        <img src="images/texto-banner.png" alt="Webinar">
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@
             <div class="col-xs-4 section-heading text-center">
                 <p>Um Laboratório:
                     <a href="http://egc.ufsc.br" target="_blank">
-                        <img src="images/egc.png" class="img-responsive center-block" height="120" width="120" alt="LEDLAB logo">
+                        <img src="images/egc.png" class="img-responsive center-block" height="120" width="120" alt="EGC logo">
                     </a>
                 </p>
             </div>
@@ -164,7 +164,7 @@
 
                         <p>Da Universidade:
                             <a href="http://ufsc.br" target="_blank">
-                                <img src="images/ufsc.png" class="img-responsive center-block" height="120" width="120" alt="LEDLAB logo">
+                                <img src="images/ufsc.png" class="img-responsive center-block" height="120" width="120" alt="UFSC logo">
                             </a>
                         </p>
 
@@ -176,7 +176,7 @@
 
         <div class="row">
             <div class="col-md-6  ">
-                <img src="images/capa-facebook.png" class="img-responsive img-rounded" alt="Free HTML5 Template">
+                <img src="images/capa-facebook.png" class="img-responsive img-rounded" alt="Capa Facebook LEDLAB">
             </div>
             <div class="col-md-6  ">
 
@@ -363,7 +363,7 @@
                             </div>
                             <div class="col-xs-4 col-sm-2 text-right">
                                     <span>
-                                        <img src="images/outubro-rosa-150.png" width="60" height="60">
+                                        <img src="images/outubro-rosa-150.png" width="60" height="60" alt="Outubro Rosa">
                                     </span>
                             </div>
                             <div class="col-xs-12">
@@ -438,14 +438,14 @@
                             <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
                                     <a href="#" class="pop" data-nav-section="inovimetro">
-                                        <img src="images/portifolio/inovimetro_jogo.jpg" class="img-portifolio">
+                                        <img src="images/portifolio/inovimetro_jogo.jpg" class="img-portifolio" alt="Jogo Inovimetro">
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
                                     <a href="#" class="pop" data-nav-section="inovimetro">
-                                        <img src="images/portifolio/inovimetro_cadastro.jpg" class="img-portifolio">
+                                        <img src="images/portifolio/inovimetro_cadastro.jpg" class="img-portifolio" alt="Cadastro Inovimetro">
                                     </a>
                                 </div>
                             </div>
@@ -454,14 +454,14 @@
                             <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
                                     <a href="#" class="pop" data-nav-section="inovimetro">
-                                        <img src="images/portifolio/inovimetro_questao.jpg" class="img-portifolio">
+                                        <img src="images/portifolio/inovimetro_questao.jpg" class="img-portifolio" alt="Questões Inovimetro">
                                     </a>
                                 </div>
                             </div>
                             <div class="col-xs-6">
                                 <div class="img-portifolio text-center">
                                     <a href="#" class="pop" data-nav-section="inovimetro">
-                                        <img src="images/portifolio/inovimetro_relatorio.jpg" class="img-portifolio">
+                                        <img src="images/portifolio/inovimetro_relatorio.jpg" class="img-portifolio" alt="Relatório Inovimetro">
                                     </a>
                                 </div>
                             </div>
@@ -579,7 +579,7 @@
                             <div class="col-xs-12">
                                 <div class="img-portifolio text-center">
                                     <a href="http://www.egc.ufsc.br" target="_blank">
-                                        <img src="images/portifolio/egc.jpeg" class="img-portifolio"></a>
+                                        <img src="images/portifolio/egc.jpeg" class="img-portifolio" alt="Demonstrativo EGC"></a>
                                 </div>
                             </div>
                         </div>
@@ -616,7 +616,7 @@
             <div class="modal-body">
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true" class="icon-portifolio">fechar <i class="icon-close"></i></span><span
                         class="sr-only">Close</span></button>
-                <img src="" class="imagepreview" style="width: 100%;">
+                <img src="" class="imagepreview" style="width: 100%;" alt="">
             </div>
         </div>
     </div>
