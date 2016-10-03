@@ -150,7 +150,7 @@
             <div class="col-xs-4 section-heading text-center">
                 <p>Um Laboratório:
                     <a href="http://egc.ufsc.br" target="_blank">
-                        <img src="images/egc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
+                        <img src="images/egc.png" class="img-responsive center-block" height="120" width="120" alt="LEDLAB logo">
                     </a>
                 </p>
             </div>
@@ -163,7 +163,7 @@
 
                         <p>Da Universidade:
                             <a href="http://ufsc.br" target="_blank">
-                                <img src="images/ufsc.png" class="img-responsive center-block" height="120px" width="120px" alt="LEDLAB logo">
+                                <img src="images/ufsc.png" class="img-responsive center-block" height="120" width="120" alt="LEDLAB logo">
                             </a>
                         </p>
 
@@ -283,7 +283,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h3>Com uma equipe multidisciplinar, eficiente e experiente, o <strong>LED</strong>LAB oferece
-                            uma gama de serviços à comunidade universitária.<h3>
+                            uma gama de serviços à comunidade universitária.</h3>
                     </div>
                 </div>
             </div>
@@ -362,7 +362,7 @@
                             </div>
                             <div class="col-xs-4 col-sm-2 text-right">
                                     <span>
-                                        <img src="images/outubro-rosa-150.png" width="60px" height="60px">
+                                        <img src="images/outubro-rosa-150.png" width="60" height="60">
                                     </span>
                             </div>
                             <div class="col-xs-12">
