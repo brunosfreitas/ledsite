@@ -636,7 +636,7 @@
 
                             <h3 class="name">Neiva</h3><h4> Aparecida Gasparetto</h4>
 
-                            <div class="position">Técnica</div>
+                            <div class="position">Coordenadora</div>
                             <div class="position">Administrativa</div>
                         </div>
                     </div>
@@ -656,8 +656,8 @@
 
                             <h3 class="name">Alexandre</h3><h4>Peres de Pinho</h4>
 
-                            <div class="position">Coord. Técnico</div>
-                            <div class="position">Administrativo</div>
+                            <div class="position">Coordenador</div>
+                            <div class="position">Técnico</div>
                         </div>
                     </div>
 
