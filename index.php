@@ -87,7 +87,7 @@
                         <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse"
                            data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
                         <a class="navbar-brand" href="index.html"><img src="images/logo-ledlab-roxo.png"
-                                                                       class="img-responsive" height="72px" width="72px"
+                                                                       class="img-responsive" height="72" width="72"
                                                                        alt="Logo LEDLAB"></a>
                     </div>
                 </div>
