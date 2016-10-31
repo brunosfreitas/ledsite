@@ -346,7 +346,7 @@
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
                 </div>
             </div>
-            <div class="clearfix visible-sm-block visible-xs-block"></div>
+<!--            <div class="clearfix visible-sm-block visible-xs-block"></div>-->
         </div>
     </div>
 </div>
@@ -421,6 +421,38 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+                <!-- Press Item -->
+
+                <!-- Press Item -->
+                <div id="diagramacao" class="fh5co-press-item" data-section="diagramacao">
+                    <div class="fh5co-press-text-full">
+                        <div class="row">
+                            <div class="col-xs-8 col-sm-10">
+                                <h3 class="h2 fh5co-press-title">Diagramação<span class="fh5co-border"></span></h3>
+                            </div>
+                            <div class="col-xs-4 col-sm-2 text-right">
+                                    <span>
+                                        <i class="icon-vector icon-portifolio"></i>
+                                    </span>
+                            </div>
+                            <div class="col-xs-12">
+                                <p class="text-justify">Projetos editoriais podem ser aplicados em diferentes mídias para otimizar a comunicação de conteúdos deixando as peças mais atrativas visualmente, e as informações melhor estruturadas.
+                                    Na foto um projeto realizado pela equipe LED publicado em 2016.
+                                    <br>
+                            </div>
+                        </div>
+                        <div class="row grid-portifolio">
+                            <div class="col-xs-12">
+                                <div class="img-portifolio text-center">
+                                    <a href="#" class="pop" data-nav-section="diagramacao">
+                                        <img src="images/portifolio/design-editorial-livro-portfolio-led.png" class="img-portifolio" alt="Diagramacao">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
                 <!-- Press Item -->
@@ -512,6 +544,8 @@
                     </div>
                 </div>
                 <!-- Press Item -->
+
+
 
                 <!-- Press Item -->
                 <div class="fh5co-press-item  ">
