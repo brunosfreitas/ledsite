@@ -359,7 +359,7 @@
                     <div class="fh5co-press-text-full">
                         <div class="row">
                             <div class="col-xs-8 col-sm-10">
-                                <h3 class="h2 fh5co-press-title">Outubro Rosa<span class="fh5co-border"></span></h3>
+                                <h3 class="h2 fh5co-press-title">Campanha de Conscientização - Novembro Azul<span class="fh5co-border"></span></h3>
                             </div>
                             <div class="col-xs-4 col-sm-2 text-right">
                                     <span>
@@ -367,18 +367,15 @@
                                     </span>
                             </div>
                             <div class="col-xs-12">
-                                <p class="text-justify">Neste mês de outubro o LED LAB veste ROSA.<br>
-                                    ROSA em apoio às ações e campanhas direcionadas à conscientização pela prevenção e combate ao câncer de mama, através de exames que auxiliam no diagnóstico precoce.<br>
-                                    ROSA pelas ações e campanhas que ajudam a tornar mais leve o dia a dia de quem é diagnosticada com câncer de mama e está em tratamento. <br>
-                                    ROSA com o propósito de compartilhar ao maior número de pessoas que estamos juntos e solidários por uma vida mais cor de ROSA. <br>
-
-                                    Com este objetivo, o LED LAB realizou uma entrevista com Flávia Flores, idealizadora do Instituto Quimioterapia e Beleza. Baseado na entrevista, produziu diversos vídeos que serão postados ao longo do mês de outubro.
-                                </p>
+                                <p class="text-justify">Projeto de captação áudio visual e edição de vídeo para a campanha "Em Novembro Tudo Azul" desenvolvida pela Equipe LEDLAB.
+                                    <br>
+                                    Utilizamos câmeras de alta definição. Preparamos a iluminação do estúdio, para ter uma boa captação de áudio os procedimentos foram feitos utilizando o estúdio 5 do laboratório. As equipes de Coordenação, Edição, Técnica e Design. Confira o resultado clicando no vídeo
+                                    </p>
 
 
                                 <div class="embed-responsive embed-responsive-16by9">
                                     <iframe class="embed-responsive-item"
-                                            src="https://www.youtube.com/embed/_6RYmdB1uTo" allowfullscreen></iframe>
+                                            src="https://www.youtube.com/embed/qxKKQiAO5Wk" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -504,8 +501,40 @@
                 <!-- Press Item -->
 
             </div>
-
+<!-- COLUNA DOIS-->
             <div class="col-md-6">
+
+                <!-- Press Item -->
+                <div class="fh5co-press-item">
+                    <div class="fh5co-press-text-full">
+                        <div class="row">
+                            <div class="col-xs-8 col-sm-10">
+                                <h3 class="h2 fh5co-press-title">Outubro Rosa<span class="fh5co-border"></span></h3>
+                            </div>
+                            <div class="col-xs-4 col-sm-2 text-right">
+                                    <span>
+                                        <img src="images/outubro-rosa-150.png" width="60" height="60" alt="Outubro Rosa">
+                                    </span>
+                            </div>
+                            <div class="col-xs-12">
+                                <p class="text-justify">Neste mês de outubro o LED LAB veste ROSA.<br>
+                                    ROSA em apoio às ações e campanhas direcionadas à conscientização pela prevenção e combate ao câncer de mama, através de exames que auxiliam no diagnóstico precoce.<br>
+                                    ROSA pelas ações e campanhas que ajudam a tornar mais leve o dia a dia de quem é diagnosticada com câncer de mama e está em tratamento. <br>
+                                    ROSA com o propósito de compartilhar ao maior número de pessoas que estamos juntos e solidários por uma vida mais cor de ROSA. <br>
+
+                                    Com este objetivo, o LED LAB realizou uma entrevista com Flávia Flores, idealizadora do Instituto Quimioterapia e Beleza. Baseado na entrevista, produziu diversos vídeos que serão postados ao longo do mês de outubro.
+                                </p>
+
+
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe class="embed-responsive-item"
+                                            src="https://www.youtube.com/embed/_6RYmdB1uTo" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Press Item -->
 
                 <!-- Press Item -->
                 <div class="fh5co-press-item">
