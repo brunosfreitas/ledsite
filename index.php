@@ -304,38 +304,38 @@
         <div class="row row-bottom-padded-sm">
             <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
 
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-01.png" height="150" width="150">
-                <h3>Videoconferência</h3>
+                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-01.png" height="120" width="120">
+                <h4>Videoconferência</h4>
                     <!--<p><a href="bla">Far far away,</a>  behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
 
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-05.png" height="150" width="150">
-                <h3>Gravação e Edição de Vídeo</h3>
+                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-05.png" height="120" width="120">
+                <h4>Gravação e Edição de Vídeo</h4>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
 
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-02.png" height="150" width="150">
-                <h3>Webinar</h3>
+                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-02.png" height="120" width="120">
+                <h4>Webinar</h4>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
 
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-03.png" height="150" width="150">
-                <h3>Webdesign</h3>
+                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-03.png" height="120" width="120">
+                <h4>Webdesign</h4>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
 
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-04.png" height="150" width="150">
-                <h3>Diagramação</h3>
+                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-04.png" height="120" width="120">
+                <h4>Diagramação</h4>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
 
             </div>
             <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-06.png" height="150" width="150">
-                <h3>Programação Web</h3>
+                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-06.png" height="120" width="120">
+                <h4>Programação Web</h4>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
 
             </div>
