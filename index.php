@@ -9,7 +9,7 @@
 <html class="no-js"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" lang="pt">
     <title>LEDLAB - Educação em Rede</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="LEDLAB - Educação em Rede"/>
@@ -301,43 +301,38 @@
                 </div>
             </div>
         </div>
-        <div class="row row-bottom-padded-sm">
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-01.png" height="120" width="120">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 text-center">
+                <img class="img-circle center-block" src="images/icons/icon-led-lab-01.png" height="120" width="120">
                 <h4>Videoconferência</h4>
                     <!--<p><a href="bla">Far far away,</a>  behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
-
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-05.png" height="120" width="120">
+            <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 text-center ">
+                <img class="img-circle center-block" src="images/icons/icon-led-lab-05.png" height="120" width="120">
                 <h4>Gravação e Edição de Vídeo</h4>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
-
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-02.png" height="120" width="120">
+            <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 text-center ">
+                <img class="img-circle center-block" src="images/icons/icon-led-lab-02.png" height="120" width="120">
                 <h4>Webinar</h4>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
-
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-03.png" height="120" width="120">
+            <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 text-center ">
+                <img class="img-circle center-block" src="images/icons/icon-led-lab-03.png" height="120" width="120">
                 <h4>Webdesign</h4>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
-
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-04.png" height="120" width="120">
+            <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 text-center ">
+                <img class="img-circle center-block" src="images/icons/icon-led-lab-04.png" height="120" width="120">
                 <h4>Diagramação</h4>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
-
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 fh5co-service text-center ">
-                <img class="img-responsive img-circle center-block" src="images/icons/icon-led-lab-06.png" height="120" width="120">
+            <div class="col-xxs-12 col-xs-6 col-sm-6 col-md-4 text-center ">
+                <img class="img-circle center-block" src="images/icons/icon-led-lab-06.png" height="120" width="120">
                 <h4>Programação Web</h4>
                     <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>-->
-
             </div>
 <!--            <div class="clearfix visible-sm-block visible-xs-block"></div>-->
         </div>
@@ -655,7 +650,7 @@
             <div class="modal-body">
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true" class="icon-portifolio">fechar <i class="icon-close"></i></span><span
                         class="sr-only">Close</span></button>
-                <img src="" class="imagepreview" style="width: 100%;" alt="">
+                <img src="" class="imagepreview" style="width: 100%;" alt="Preview">
             </div>
         </div>
     </div>
