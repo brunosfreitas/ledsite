@@ -363,14 +363,15 @@
                             </div>
                             <div class="col-xs-4 col-sm-2 text-right">
                                     <span>
-                                        <img src="images/outubro-rosa-150.png" width="60" height="60" alt="Outubro Rosa">
+                                        <img src="images/novembro-azul-150.png" width="60" height="60" alt="Outubro Rosa">
                                     </span>
                             </div>
                             <div class="col-xs-12">
-                                <p class="text-justify">Projeto de captação áudio visual e edição de vídeo para a campanha "Em Novembro Tudo Azul" desenvolvida pela Equipe LEDLAB.
-                                    <br>
-                                    Utilizamos câmeras de alta definição. Preparamos a iluminação do estúdio, para ter uma boa captação de áudio os procedimentos foram feitos utilizando o estúdio 5 do laboratório. As equipes de Coordenação, Edição, Técnica e Design. Confira o resultado clicando no vídeo
-                                    </p>
+                                <p class="text-justify">
+                                    "Em Novembro Tudo Azul". Neste mês o Ledlab abraça mais uma causa, com o propósito de informar e esclarecer dúvidas sobre o câncer de prostata e a importância dos exames preventivos.
+                                <br>
+                                    Desta vez, realizamos um bate papo com o médico urologista Dr. Henrique Peres Rocha, que aborda questões importantes sobre o diagnóstico e tratamento.
+                                </p>
 
 
                                 <div class="embed-responsive embed-responsive-16by9">
