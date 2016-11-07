@@ -20,7 +20,7 @@
 
     <!-- Facebook and Twitter integration -->
     <meta property="og:title" content=""/>
-    <meta property="og:image" content="http://www.led.ufsc.br/images/ledlab-facebook-share.png"/>
+    <meta property="og:image" content="http://www.led.ufsc.br/images/ledlab-facebook-share-nov.png"/>
     <meta property="og:url" content=""/>
     <meta property="og:site_name" content=""/>
     <meta property="og:description" content=""/>
