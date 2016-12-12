@@ -156,6 +156,44 @@
     </div>
 </div>
 
+<div id="about" data-section="sobre">
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="col-md-6 no-padding-sobre">
+
+                    <div class="sobre-content gray">
+                        <h2><strong>LED</strong>LAB</h2>
+                        <h1>EDUCAÇÃO </h1>
+                        <h1>EM REDE</h1>
+                    </div>
+
+                    <div class="sobre-height yellow">
+                        <img src="images/menu-sobre-marcas.png" height="100px" width="auto" alt="UFSC logo">
+                    </div>
+            </div>
+
+            <div class="col-md-6 no-padding-sobre">
+                    <div class="sobre-height purple">
+
+                    </div>
+                    <div class="sobre-content teal">
+                        <p class="text-justify"><strong>LED</strong>LAB é composto por equipe multidisciplinar experiente de (técnicos, pesquisadores e estudantes) que pesquisa e desenvolve novos modelos educacionais e de tecnologias de informação e comunicação. Tem o objetivo de tornar mais acessível à informação, a comunicação mais eficiente, ampliando o saber acadêmico e o conhecimento;  visa incentivar e apoiar ações  e soluções de educação em rede, presencial e a distância,  e propor política de incentivo à produção acadêmica em rede. </p>
+                        <div class="text-center">
+                            <p>
+                                <a class="btn btn-primary" onclick="showDiv()" >Saiba mais sobre o <strong>LED</strong>LAB</a>
+                            </p>
+                        </div>
+
+                    </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
 <div id="fh5co-about-us" data-section="sobre">
     <div class="container">
         <div class="row" id="about-us">
@@ -953,6 +991,7 @@
 <script src="js/jquery.waypoints.min.js"></script>
 <!-- Owl Carousel -->
 <script src="js/owl.carousel.min.js"></script>
+
 
 <!-- Main JS (Do not remove) -->
 <script src="js/main.js"></script>

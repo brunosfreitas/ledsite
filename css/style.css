@@ -244,6 +244,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 20px;
   line-height: 1.5;
 }
+
 .section-heading h2:after, .logos:after {
   content: "";
   position: absolute;
@@ -1209,4 +1210,64 @@ h1, h2, h3, h4, h5, h6 {
     background: url("http://led.ufsc.br/images/outubro-rosa.png"), white  !important;
     background-position: left top !important;
     background-repeat: no-repeat !important;
+}
+
+@media only screen and (max-width : 767px) {
+    .box {
+        height: auto !important;
+    }
+}
+
+.sobre-height{
+    height: 200px;
+}
+
+.sobre-height.purple{
+    color: white;
+    background: #3C294D;
+}
+
+.sobre-height.yellow{
+    color: white;
+    background: #d6b356;
+    padding: 50px;
+}
+
+.sobre-content.teal{
+    padding: 50px;
+    color: white;
+    background: #2198A5;
+}
+
+.sobre-content.gray{
+    padding: 150px 50px 150px 50px;
+    background: #f4f4f4;
+}
+
+.sobre-content.gray h1{
+    color: #3C294D;
+    font-weight: bold;
+    font-size: 60px;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+    display: block;
+    margin: 0px 0px 0px 40%;
+}
+
+.sobre-content.gray h2{
+    color: #3C294D;
+    font-weight: bold;
+    font-size: 30px;
+    font-weight: 300;
+    text-transform: uppercase;
+    position: relative;
+    display: block;
+    margin: 0px 0px 0px 40%;
+}
+
+
+.no-padding-sobre{
+    padding-right: 0px;
+    padding-left: 0px;
 }
