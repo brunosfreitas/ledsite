@@ -263,6 +263,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media screen and (max-width: 768px) {
+    .sobre-content > h1 {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 768px) {
   .section-heading h2 {
     font-size: 30px;
   }
@@ -1219,7 +1225,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sobre-height{
-    height: 200px;
+    /*height: 200px;*/
 }
 
 .purple{
@@ -1256,7 +1262,7 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
     position: relative;
     display: block;
-    margin: 0px 0px 0px 30%;
+    margin: 0px 0px 0px 5%;
 }
 
 .sobre-content.gray h2{
@@ -1267,7 +1273,7 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
     position: relative;
     display: block;
-    margin: 0px 0px 0px 30%;
+    margin: 0px 0px 0px 5%;
 }
 
 

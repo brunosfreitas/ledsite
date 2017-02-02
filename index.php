@@ -166,12 +166,12 @@
 
                     <div class="sobre-content gray">
                         <h2><strong>LED</strong>LAB</h2>
-                        <h1>EDUCAÇÃO </h1>
+                        <h1>EDUCAÇÃO</h1>
                         <h1>EM REDE</h1>
                     </div>
 
                     <div class="sobre-height yellow">
-                        <img src="images/menu-sobre-marcas.png" height="100px" width="auto" alt="UFSC logo">
+                        <img src="images/menu-sobre-marcas.png" height="auto" width="100%" alt="UFSC logo">
                     </div>
             </div>
 
