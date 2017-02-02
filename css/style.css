@@ -1222,6 +1222,10 @@ h1, h2, h3, h4, h5, h6 {
     height: 200px;
 }
 
+.purple{
+    background: #3C294D;
+}
+
 .sobre-height.purple{
     color: white;
     background: #3C294D;
@@ -1252,7 +1256,7 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
     position: relative;
     display: block;
-    margin: 0px 0px 0px 40%;
+    margin: 0px 0px 0px 30%;
 }
 
 .sobre-content.gray h2{
@@ -1263,11 +1267,16 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
     position: relative;
     display: block;
-    margin: 0px 0px 0px 40%;
+    margin: 0px 0px 0px 30%;
 }
 
 
 .no-padding-sobre{
     padding-right: 0px;
     padding-left: 0px;
+}
+
+#welcomeDiv{
+    padding-top: 80px;
+
 }

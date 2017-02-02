@@ -20,7 +20,7 @@
 
     <!-- Facebook and Twitter integration -->
     <meta property="og:title" content=""/>
-    <meta property="og:image" content="http://www.led.ufsc.br/images/ledlab-facebook-share-nov.png"/>
+    <meta property="og:image" content="http://www.led.ufsc.br/images/ledlab-facebook-share-fb.png"/>
     <meta property="og:url" content=""/>
     <meta property="og:site_name" content=""/>
     <meta property="og:description" content=""/>
@@ -99,6 +99,7 @@
                             <li><a href="#" data-nav-section="servicos"><span>Serviços</span></a></li>
                             <li><a href="#" data-nav-section="portifolio"><span>Portifólio</span></a></li>
                             <li><a href="#" data-nav-section="equipe"><span>Equipe</span></a></li>
+                            <li><a href="http://atendimento.led.ufsc.br/" target="_blank"><span>Agendamento</span></a></li>
                             <!--<li><a href="#" data-nav-section="contato"><span>Contato</span></a></li>-->
                         </ul>
                     </div>
@@ -158,7 +159,7 @@
 
 <div id="about" data-section="sobre">
     <div class="container-fluid">
-        <div class="row">
+        <div class="row purple">
 
             <div class="col-md-6 no-padding-sobre">
 
@@ -174,18 +175,19 @@
             </div>
 
             <div class="col-md-6 no-padding-sobre">
+                <div class="sobre-content teal">
+                    <p class="text-justify"><strong>LED</strong>LAB é composto por equipe multidisciplinar experiente de (técnicos, pesquisadores e estudantes) que pesquisa e desenvolve novos modelos educacionais e de tecnologias de informação e comunicação. Tem o objetivo de tornar mais acessível à informação, a comunicação mais eficiente, ampliando o saber acadêmico e o conhecimento;  visa incentivar e apoiar ações  e soluções de educação em rede, presencial e a distância,  e propor política de incentivo à produção acadêmica em rede. </p>
+                    <div class="text-center">
+                        <p>
+                            <a class="btn btn-primary" onclick="showDiv()" href="#" data-nav-section="saiba-mais">Saiba mais sobre o <strong>LED</strong>LAB</a>
+                        </p>
+                    </div>
+
+                </div>
                     <div class="sobre-height purple">
 
                     </div>
-                    <div class="sobre-content teal">
-                        <p class="text-justify"><strong>LED</strong>LAB é composto por equipe multidisciplinar experiente de (técnicos, pesquisadores e estudantes) que pesquisa e desenvolve novos modelos educacionais e de tecnologias de informação e comunicação. Tem o objetivo de tornar mais acessível à informação, a comunicação mais eficiente, ampliando o saber acadêmico e o conhecimento;  visa incentivar e apoiar ações  e soluções de educação em rede, presencial e a distância,  e propor política de incentivo à produção acadêmica em rede. </p>
-                        <div class="text-center">
-                            <p>
-                                <a class="btn btn-primary" onclick="showDiv()" >Saiba mais sobre o <strong>LED</strong>LAB</a>
-                            </p>
-                        </div>
 
-                    </div>
 
             </div>
 
@@ -194,52 +196,52 @@
     </div>
 </div>
 
-<div id="fh5co-about-us" data-section="sobre">
+<div data-section="saiba-mais" id="welcomeDiv"  style="display:none;">
     <div class="container">
-        <div class="row" id="about-us">
+<!--        <div class="row" id="about-us">-->
+<!---->
+<!--            <div class="col-xs-4 section-heading text-center">-->
+<!--                <p>Um Laboratório:-->
+<!--                    <a href="http://egc.ufsc.br" target="_blank">-->
+<!--                        <img src="images/egc.png" class="img-responsive center-block" height="120" width="120" alt="EGC logo">-->
+<!--                    </a>-->
+<!--                </p>-->
+<!--            </div>-->
+<!--            <div class="col-xs-4 col-md-4 section-heading text-center">-->
+<!---->
+<!--                <h2><img src="images/logo-ledlab-roxo-200-rede.png" class="img-responsive center-block" alt="LEDLAB logo"></h2>-->
+<!---->
+<!--            </div>-->
+<!--            <div class="col-xs-4 section-heading text-center">-->
+<!---->
+<!--                        <p>Da Universidade:-->
+<!--                            <a href="http://ufsc.br" target="_blank">-->
+<!--                                <img src="images/ufsc.png" class="img-responsive center-block" height="120" width="120" alt="UFSC logo">-->
+<!--                            </a>-->
+<!--                        </p>-->
+<!---->
+<!--            </div>-->
+<!---->
+<!---->
+<!--        </div>-->
+<!---->
+<!---->
+<!--        <div class="row">-->
+<!--            <div class="col-md-6  ">-->
+<!--                <img src="images/capa-facebook.png" class="img-responsive img-rounded" alt="Capa Facebook LEDLAB">-->
+<!--            </div>-->
+<!--            <div class="col-md-6  ">-->
+<!---->
+<!--                <p class="text-justify"><strong>LED</strong>LAB é composto por equipe multidisciplinar experiente de (técnicos, pesquisadores e estudantes) que pesquisa e desenvolve novos modelos educacionais e de tecnologias de informação e comunicação. Tem o objetivo de tornar mais acessível à informação, a comunicação mais eficiente, ampliando o saber acadêmico e o conhecimento;  visa incentivar e apoiar ações  e soluções de educação em rede, presencial e a distância,  e propor política de incentivo à produção acadêmica em rede. </p>-->
+<!--                <div class="text-center">-->
+<!--                    <p>-->
+<!--                        <a class="btn btn-primary" onclick="showDiv()" >Saiba mais sobre o <strong>LED</strong>LAB</a>-->
+<!--                    </p>-->
+<!--                </div>-->
+<!---->
+<!--            </div>-->
 
-            <div class="col-xs-4 section-heading text-center">
-                <p>Um Laboratório:
-                    <a href="http://egc.ufsc.br" target="_blank">
-                        <img src="images/egc.png" class="img-responsive center-block" height="120" width="120" alt="EGC logo">
-                    </a>
-                </p>
-            </div>
-            <div class="col-xs-4 col-md-4 section-heading text-center">
-
-                <h2><img src="images/logo-ledlab-roxo-200-rede.png" class="img-responsive center-block" alt="LEDLAB logo"></h2>
-
-            </div>
-            <div class="col-xs-4 section-heading text-center">
-
-                        <p>Da Universidade:
-                            <a href="http://ufsc.br" target="_blank">
-                                <img src="images/ufsc.png" class="img-responsive center-block" height="120" width="120" alt="UFSC logo">
-                            </a>
-                        </p>
-
-            </div>
-
-
-        </div>
-
-
-        <div class="row">
-            <div class="col-md-6  ">
-                <img src="images/capa-facebook.png" class="img-responsive img-rounded" alt="Capa Facebook LEDLAB">
-            </div>
-            <div class="col-md-6  ">
-
-                <p class="text-justify"><strong>LED</strong>LAB é composto por equipe multidisciplinar experiente de (técnicos, pesquisadores e estudantes) que pesquisa e desenvolve novos modelos educacionais e de tecnologias de informação e comunicação. Tem o objetivo de tornar mais acessível à informação, a comunicação mais eficiente, ampliando o saber acadêmico e o conhecimento;  visa incentivar e apoiar ações  e soluções de educação em rede, presencial e a distância,  e propor política de incentivo à produção acadêmica em rede. </p>
-                <div class="text-center">
-                    <p>
-                        <a class="btn btn-primary" onclick="showDiv()" >Saiba mais sobre o <strong>LED</strong>LAB</a>
-                    </p>
-                </div>
-
-            </div>
-
-            <div class="col-md-12" id="welcomeDiv"  style="display:none;">
+            <div class="col-md-12" >
                 <h3>Saiba mais sobre o <strong>LED</strong>LAB:</h3>
                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                     <div class="panel panel-default">
@@ -825,16 +827,6 @@
                             <div class="position">de Produção</div>
                         </div>
                     </div>
-                    <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
-                        <div class="person">
-                            <img src="images/equipe/fabio.jpg" class="img-responsive img-rounded" alt="Fabio Dela Roca">
-
-                            <h3 class="name">Fabio</h3><h4>Dela Roca</h4>
-
-                            <div class="position">Programador</div>
-                            <div class="position">-</div>
-                        </div>
-                    </div>
 
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
@@ -898,16 +890,6 @@
                         </div>
                     </div>
 
-                    <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
-                        <div class="person">
-                            <img src="images/equipe/pati.jpg" class="img-responsive img-rounded" alt="Patrícia Herkenhoff">
-
-                            <h3 class="name">Patrícia</h3><h4>Herkenhoff</h4>
-
-                            <div class="position">Editora</div>
-                            <div class="position">-</div>
-                        </div>
-                    </div>
 
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
@@ -940,16 +922,6 @@
                             <div class="position">-</div>
                         </div>
                     </div>
-                    <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
-                        <div class="person">
-                            <img src="images/equipe/wollacy.jpg" class="img-responsive img-rounded" alt="Wollacy Rasveiler da Silva">
-
-                            <h3 class="name">Wollacy</h3><h4>Rasveiler da Silva</h4>
-
-                            <div class="position">Técnico</div>
-                            <div class="position">-</div>
-                        </div>
-                    </div>
 
                 </div>
             </div>
@@ -965,7 +937,7 @@
                 <p class="copyright text-center"><a href="http://www.led.ufsc.br"><strong>LED</strong>LAB</a> - <a
                         href="http://www.egc.ufsc.br">EGC</a> - <a href="http://www.ufsc.br">UFSC</a></p>
 
-                <p class="copyright text-center">Campus Universitário - (48) 3721 - 2453 - atendimento@led.ufsc.br</p>
+                <p class="copyright text-center">Campus Universitário - (48) 3721 - 2453</p>
             </div>
         </div>
         <div class="row">
@@ -973,7 +945,6 @@
                 <ul class="social social-circle">
                     <li><a href="https://www.facebook.com/lededucacaoemrede" target="_blank"><i class="icon-facebook"></i></a></li>
                     <li><a href="https://www.youtube.com/ledlabufsc" target="_blank"><i class="icon-youtube"></i></a></li>
-                    <li><a href="mailto:atendimento@led.ufsc.br"><i class="icon-mail2"></i></a></li>
                 </ul>
             </div>
         </div>
