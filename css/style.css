@@ -799,12 +799,13 @@ h1, h2, h3, h4, h5, h6 {
 #footer {
   padding: 0px;
   color: white;
-  background-color: #382441;
+  background: #BE9F4C;
 }
 #footer .copyright {
   padding-top: 100px;
+  padding-bottom: 30px;
   padding-left: 50px;
-  padding-bottom: 0;
+  background-color: #382441;
 }
 
 #footer .copyright p{
@@ -821,8 +822,12 @@ h1, h2, h3, h4, h5, h6 {
     background: #2198A5;
 }
 
-#footer .col-map-footer{
+#footer .col-footer{
     padding: 0px;
+}
+
+#footer .col-footer-map{
+    background: #BE9F4C;
 }
 
 .btn {
@@ -886,10 +891,10 @@ h1, h2, h3, h4, h5, h6 {
 .social li a.social-circle {
   background: white;
   color: #382441;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%;
+  /*-webkit-border-radius: 50%;*/
+  /*-moz-border-radius: 50%;*/
+  /*-ms-border-radius: 50%;*/
+  /*border-radius: 50%;*/
 }
 .social li a:hover {
   background: #1d97a4 !important;
@@ -901,10 +906,10 @@ h1, h2, h3, h4, h5, h6 {
 .social.social-circle a {
   background: white;
   color: #382441 !important;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%;
+  /*-webkit-border-radius: 50%;*/
+  /*-moz-border-radius: 50%;*/
+  /*-ms-border-radius: 50%;*/
+  /*border-radius: 50%;*/
 }
 
 

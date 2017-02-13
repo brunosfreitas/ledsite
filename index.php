@@ -99,7 +99,7 @@
                             <li><a href="#" data-nav-section="servicos"><span>Serviços</span></a></li>
                             <li><a href="#" data-nav-section="portifolio"><span>Portifólio</span></a></li>
                             <li><a href="#" data-nav-section="equipe"><span>Equipe</span></a></li>
-                            <li><a href="http://atendimento.led.ufsc.br/" target="_blank"><span>Agendamento</span></a></li>
+                            <li><a href="#" ><span>Agendamento</span></a></li>
                             <li><a href="#" data-nav-section="contato"><span>Contato</span></a></li>
                             <!--<li><a href="#" data-nav-section="contato"><span>Contato</span></a></li>-->
                         </ul>
@@ -934,12 +934,12 @@
 <footer id="footer" data-section="contato" role="contentinfo">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-6 col-map-footer">
+            <div class="col-md-6 col-footer">
                 <a href="https://goo.gl/maps/mhSfkEPG57p" target="_blank">
                     <img class="img-responsive" src="images/mapa_rodape.png">
                 </a>
             </div>
-            <div class="col-md-6 col-map-footer">
+            <div class="col-md-6 col-footer">
                 <div class="footer-space teal"></div>
                 <div class="copyright">
 
