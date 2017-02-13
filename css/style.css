@@ -797,13 +797,32 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer {
-  padding: 50px 0;
+  padding: 0px;
   color: white;
   background-color: #382441;
 }
 #footer .copyright {
-  margin-bottom: 0px;
+  padding-top: 100px;
+  padding-left: 50px;
   padding-bottom: 0;
+}
+
+#footer .copyright p{
+    margin: 0px;
+    font-size: 24px;
+}
+
+#footer .copyright a{
+    color: white;
+}
+
+#footer .footer-space{
+    min-height: 200px;
+    background: #2198A5;
+}
+
+#footer .col-map-footer{
+    padding: 0px;
 }
 
 .btn {
@@ -881,16 +900,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 .social.social-circle a {
   background: white;
-  color: #382441;
+  color: #382441 !important;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
 
-#footer .copyright a{
-    color: white;
-}
+
 
 /*Bruno*/
 .slider-container-fluid{

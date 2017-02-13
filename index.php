@@ -932,21 +932,29 @@
 
 
 <footer id="footer" data-section="contato" role="contentinfo">
-    <div class="container">
-        <div class="row row-bottom-padded-sm">
-            <div class="col-md-12">
-                <p class="copyright text-center"><a href="http://www.led.ufsc.br"><strong>LED</strong>LAB</a> - <a
-                        href="http://www.egc.ufsc.br">EGC</a> - <a href="http://www.ufsc.br">UFSC</a></p>
-
-                <p class="copyright text-center">Campus Universitário - (48) 3721 - 2453</p>
-            </div>
-        </div>
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12 text-center">
-                <ul class="social social-circle">
-                    <li><a href="https://www.facebook.com/lededucacaoemrede" target="_blank"><i class="icon-facebook"></i></a></li>
-                    <li><a href="https://www.youtube.com/ledlabufsc" target="_blank"><i class="icon-youtube"></i></a></li>
-                </ul>
+            <div class="col-md-6 col-map-footer">
+                <a href="https://goo.gl/maps/mhSfkEPG57p" target="_blank">
+                    <img class="img-responsive" src="images/mapa_rodape.png">
+                </a>
+            </div>
+            <div class="col-md-6 col-map-footer">
+                <div class="footer-space teal"></div>
+                <div class="copyright">
+
+                    <p><a href="http://www.led.ufsc.br"><strong>LED</strong>LAB</a> - <a
+                            href="http://www.egc.ufsc.br">EGC</a> - <a href="http://www.ufsc.br">UFSC</a></p>
+                    <p>Campus Universitário</p>
+                    <p>(48) 3721 - 2453</p>
+                    <br>
+                    <ul class="social social-circle">
+                        <li><a href="https://www.facebook.com/lededucacaoemrede" target="_blank"><i class="icon-facebook text-center"></i></a></li>
+                        <li><a href="https://www.youtube.com/ledlabufsc" target="_blank"><i class="icon-youtube text-center"></i></a></li>
+                    </ul>
+
+                </div>
+
             </div>
         </div>
     </div>
