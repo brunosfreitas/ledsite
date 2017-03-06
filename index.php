@@ -400,6 +400,32 @@
                     <div class="fh5co-press-text-full">
                         <div class="row">
                             <div class="col-xs-8 col-sm-10">
+                                <h3 class="h2 fh5co-press-title">Naninhas do Bem<span class="fh5co-border"></span></h3>
+                            </div>
+                            <div class="col-xs-4 col-sm-2 text-right">
+                                <span><i class="icon-film icon-portifolio"></i></span>
+                            </div>
+                            <div class="col-xs-12">
+                                <p class="text-justify">
+                                    Projeto que reúne amor e dedicação num ato de fraternidade, entrega carinho em formato de travesseiro para crianças internadas nos hospitais Brasileiros.
+                                </p>
+
+
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe class="embed-responsive-item"
+                                            src="https://www.youtube.com/embed/Nsr1ZOWl10M" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Press Item -->
+
+                <!-- Press Item -->
+                <div class="fh5co-press-item">
+                    <div class="fh5co-press-text-full">
+                        <div class="row">
+                            <div class="col-xs-8 col-sm-10">
                                 <h3 class="h2 fh5co-press-title">Campanha de Conscientização - Novembro Azul<span class="fh5co-border"></span></h3>
                             </div>
                             <div class="col-xs-4 col-sm-2 text-right">
@@ -410,7 +436,7 @@
                             <div class="col-xs-12">
                                 <p class="text-justify">
                                     "Em Novembro Tudo Azul". Neste mês o Ledlab abraça mais uma causa, com o propósito de informar e esclarecer dúvidas sobre o câncer de prostata e a importância dos exames preventivos.
-                                <br>
+                                    <br>
                                     Desta vez, realizamos um bate papo com o médico urologista Dr. Henrique Peres Rocha, que aborda questões importantes sobre o diagnóstico e tratamento.
                                 </p>
 
