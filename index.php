@@ -99,7 +99,8 @@
                             <li><a href="#" data-nav-section="servicos"><span>Serviços</span></a></li>
                             <li><a href="#" data-nav-section="portifolio"><span>Portifólio</span></a></li>
                             <li><a href="#" data-nav-section="equipe"><span>Equipe</span></a></li>
-                            <li><a href="#" ><span>Agendamento</span></a></li>
+                            <li><a href="http://atendimento.led.ufsc.br/"><span>Agendamento</span></a></li>
+                            <!--<li><a href="#" ><span>Agendamento</span></a></li>-->
                             <li><a href="#" data-nav-section="contato"><span>Contato</span></a></li>
                             <!--<li><a href="#" data-nav-section="contato"><span>Contato</span></a></li>-->
                         </ul>
@@ -395,6 +396,7 @@
         </div>
         <div class="row">
             <div class="col-md-6">
+
                 <!-- Press Item -->
                 <div class="fh5co-press-item">
                     <div class="fh5co-press-text-full">
