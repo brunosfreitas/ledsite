@@ -99,7 +99,7 @@
                             <li><a href="#" data-nav-section="servicos"><span>Serviços</span></a></li>
                             <li><a href="#" data-nav-section="portifolio"><span>Portifólio</span></a></li>
                             <li><a href="#" data-nav-section="equipe"><span>Equipe</span></a></li>
-                            <li><a href="http://atendimento.led.ufsc.br/"><span>Agendamento</span></a></li>
+                            <li><a href="http://atendimento.led.ufsc.br/" target="_blank"><span>Agendamento</span></a></li>
                             <!--<li><a href="#" ><span>Agendamento</span></a></li>-->
                             <li><a href="#" data-nav-section="contato"><span>Contato</span></a></li>
                             <!--<li><a href="#" data-nav-section="contato"><span>Contato</span></a></li>-->
