@@ -794,7 +794,7 @@
                         </div>
                     </div>
 
-                    <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
+                    <!-- <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
                             <img src="images/equipe/ana.jpg" class="img-responsive img-rounded" alt="Ana Cristina Dionísio Medaglia">
 
@@ -804,7 +804,7 @@
                             <div class="position">Técnica</div>
                             <div class="position">-</div>
                         </div>
-                    </div>
+                    </div>-->
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
                             <img src="images/equipe/righetto.jpg" class="img-responsive img-rounded" alt="André Righetto">
@@ -836,7 +836,7 @@
                         </div>
                     </div>
 
-                    <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
+                    <!-- <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
                             <img src="images/equipe/bruno.jpg" class="img-responsive img-rounded" alt="Bruno Freitas">
 
@@ -845,7 +845,7 @@
                             <div class="position">Programador</div>
                             <div class="position">-</div>
                         </div>
-                    </div>
+                    </div>-->
                     <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
                         <div class="person">
                             <img src="images/equipe/carluce.jpg" class="img-responsive img-rounded" alt="Carluce Buss">
@@ -938,6 +938,16 @@
                             <h3 class="name">Renan</h3><h4>Binda</h4>
 
                             <div class="position">Editor</div>
+                            <div class="position">-</div>
+                        </div>
+                    </div>
+                    <div class="col-xxs-6 col-xs-6 col-sm-4 col-md-3 text-center">
+                        <div class="person">
+                            <img src="images/equipe/thary.jpg" class="img-responsive img-rounded" alt="Thary Correia">
+
+                            <h3 class="name">Thary</h3><h4>Correia</h4>
+
+                            <div class="position">Programadora</div>
                             <div class="position">-</div>
                         </div>
                     </div>

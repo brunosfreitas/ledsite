@@ -26,7 +26,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="14" selection-start="5005" selection-end="5005" vertical-scroll-proportion="0.92471594" vertical-offset="1202" max-vertical-offset="17527">
+            <state line="806" column="29" selection-start="49267" selection-end="49267" vertical-scroll-proportion="0.49147728" vertical-offset="13356" max-vertical-offset="17697">
               <folding />
             </state>
           </provider>
@@ -45,8 +45,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/sass/tt" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -250,7 +250,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="14" selection-start="5005" selection-end="5005" vertical-scroll-proportion="0.92471594" vertical-offset="1202" max-vertical-offset="17527">
+        <state line="806" column="29" selection-start="49267" selection-end="49267" vertical-scroll-proportion="0.49147728" vertical-offset="13356" max-vertical-offset="17697">
           <folding />
         </state>
       </provider>
